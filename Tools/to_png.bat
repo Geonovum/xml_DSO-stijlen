@@ -3,7 +3,10 @@ echo Punt
 
 setlocal EnableDelayedExpansion
 
+REM Controleer de locatie van inkscap.com
 REM Verwijder REM voor de uit te voeren soort
+
+REM Let op: de png's worden met antialiasing gemaakt
 
 echo circle
 REM FORFILES /p .\svg /m pc*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.com @file -d 288 -y 0 -o %~dp0png_hoog\\@fname.png |echo @file hoog"
