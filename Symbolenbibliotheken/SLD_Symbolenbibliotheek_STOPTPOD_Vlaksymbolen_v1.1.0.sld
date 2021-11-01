@@ -6810,7 +6810,7 @@
             <se:FeatureTypeStyle>
                 <se:Name>vag0</se:Name>
                 <se:Description>
-                    <se:Title>Arcering vertikaal gesloten lijn</se:Title>
+                    <se:Title>Arcering verticaal gesloten lijn</se:Title>
                 </se:Description>
                 <se:Rule>
                     <se:Name>vag000</se:Name>
@@ -12054,7 +12054,7 @@
             <se:FeatureTypeStyle>
                 <se:Name>vah0</se:Name>
                 <se:Description>
-                    <se:Title>Arcering vertikaal onderbroken lijn</se:Title>
+                    <se:Title>Arcering verticaal onderbroken lijn</se:Title>
                 </se:Description>
                 <se:Rule>
                     <se:Name>vah000</se:Name>
@@ -17484,7 +17484,7 @@
             <se:FeatureTypeStyle>
                 <se:Name>vaz0</se:Name>
                 <se:Description>
-                    <se:Title>Arcering vertikaal zonder lijn</se:Title>
+                    <se:Title>Arcering verticaal zonder lijn</se:Title>
                 </se:Description>
                 <se:Rule>
                     <se:Name>vaz000</se:Name>

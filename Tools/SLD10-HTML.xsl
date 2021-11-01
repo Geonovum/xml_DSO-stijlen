@@ -8,7 +8,13 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" 
     exclude-result-prefixes="xs xd math"  
     version="2.0">
-    <xsl:output method="html" encoding="UTF-8" indent="yes"/>
+    <xsl:output method="html" encoding="UTF-8" indent="yes" doctype-system="about:legacy-compat"/>
+
+    <!-- relative path to the location of the symbols  -->
+    <xsl:param name="symbolpath" select="'./symbols/'"/>
+    <!-- relative path to the location of the stylesheet  -->
+    <xsl:param name="CSSpath" select="'../CSS/'"/>
+    
     <xd:doc scope="stylesheet">
         <xd:desc>
             <xd:p>
@@ -27,7 +33,7 @@
                 <xsl:element name="link">
                     <xsl:attribute name="rel">stylesheet</xsl:attribute>
                     <xsl:attribute name="type">text/css</xsl:attribute>
-                    <xsl:attribute name="href">SLD.css</xsl:attribute>
+                    <xsl:attribute name="href"><xsl:value-of select="concat($CSSpath,'SLD.css')"/></xsl:attribute>
                 </xsl:element>
             </xsl:element>
             <xsl:element name="body">
@@ -167,9 +173,10 @@
                             <xsl:attribute name="height">48</xsl:attribute>
                             <xsl:attribute name="width">96</xsl:attribute>
                             <xsl:if test="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']">
+                                <xsl:variable name="image" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
                                 <xsl:element name="image">
                                     <xsl:attribute name="href">
-                                        <xsl:value-of select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
+                                        <xsl:value-of select="concat($symbolpath,tokenize($image,'/')[count(tokenize($image,'/'))])"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="x">0</xsl:attribute>
                                     <xsl:attribute name="y">0</xsl:attribute>
@@ -177,7 +184,7 @@
                                 </xsl:element>
                                 <xsl:element name="image">
                                     <xsl:attribute name="href">
-                                        <xsl:value-of select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
+                                        <xsl:value-of select="concat($symbolpath,tokenize($image,'/')[count(tokenize($image,'/'))])"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="x">48</xsl:attribute>
                                     <xsl:attribute name="y">0</xsl:attribute>
@@ -204,8 +211,9 @@
                                         <xsl:variable name="stroke-width" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-width']/text()"/>
                                         <xsl:variable name="stroke-linejoin" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linejoin']/text()"/>
                                         <xsl:variable name="stroke-dasharray" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()"/>
+                                        <xsl:variable name="stroke-dasharray_mm" select="concat(tokenize($stroke-dasharray)[1],'mm ',tokenize($stroke-dasharray)[2],'mm ')"/>
                                         <xsl:variable name="stroke-linecap" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linecap']/text()"/>
-                                        <xsl:value-of select="concat(';stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-linejoin:', $stroke-linejoin, ';stroke-dasharray:', $stroke-dasharray, ';stroke-linecap:', $stroke-linecap)" />
+                                        <xsl:value-of select="concat(';stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-linejoin:', $stroke-linejoin, ';stroke-dasharray:', $stroke-dasharray_mm, ';stroke-linecap:', $stroke-linecap)" />
                                     </xsl:variable>
                                     <xsl:value-of select="$style"/>
                                 </xsl:attribute>
@@ -251,8 +259,9 @@
                                     <xsl:variable name="stroke-opacity" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-opacity']/text()"/>
                                     <xsl:variable name="stroke-width" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-width']/text()"/>
                                     <xsl:variable name="stroke-dasharray" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()"/>
+                                    <xsl:variable name="stroke-dasharray_mm" select="concat(tokenize($stroke-dasharray)[1],'mm ',tokenize($stroke-dasharray)[2],'mm ')"/>
                                     <xsl:variable name="stroke-linecap" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linecap']/text()"/>
-                                    <xsl:value-of select="concat('stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-dasharray:', $stroke-dasharray, ';stroke-linecap:', $stroke-linecap)"/>
+                                    <xsl:value-of select="concat('stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-dasharray:', $stroke-dasharray_mm, ';stroke-linecap:', $stroke-linecap)"/>
                                 </xsl:attribute>
                             </xsl:element>
                         </xsl:element>
