@@ -16,104 +16,6 @@
         </xd:desc>
     </xd:doc>
     <xsl:template match="/">
-        <xsl:text>
-waardelijsten:before{
-    display:block;
-    content:'\00A0';
-}
-
-waardelijsten versie:before, waardelijsten versie{
-    color: white;
-    font-weight: 400;
-    font-size:26px;
-    line-height: 33.9833px;
-    background-color: #39870c;
-    padding-left:10px;
-    content:'IMOW waardelijsten versie ';
-    }
-
-waardelijsten versie{
-    display:block;
-}
-
-waardelijsten {
-    font-family: arial;
-    font-size:12px;
-    color: black;
-    width: 95%;
-    margin-left: 10px;
-    }
-
-publicatiedatum:before, publicatiedatum{
-    font-weight: 400;
-    padding-left:10px;
-    content:'Publicatiedatum: ';
-}
-
-publicatiedatum{
-    display:block;
-}
-
-waardelijst{
-    width:95%;
-}
-waardelijst label{
-    display: block;
-    color: white;
-    font-family: arial;
-    font-size:21px;
-    font-weight: 400;
-    margin-left: 20px;
-    padding-left:20px;
-    background-color: rgb(137, 137, 137);
-    }
-
-waardelijst>term::before{content:'Term: ';font-weight: bold;}
-waardelijst>uri:before{content:'Uri: ';}
-waardelijst>type:before{content:'Type: ';}
-waardelijst>omschrijving:before{content:'Omschrijving: ';}
-waardelijst>toelichting:before{content:'Toelichting: ';}
-
-waardelijst>term, waardelijst>uri, waardelijst>type, waardelijst>omschrijving, waardelijst>toelichting{
-    margin-left:40px;
-    display:grid;
-    grid-template-columns: 85px auto;
-}
-
-waarde label{
-    font-size: 18px;
-    font-weight: bold;
-    color:black;
-    background-color: rgb(229, 229, 229);
-    margin-left:40px;
-    padding-left:20px;
-    }
-
-waarde term, waarde uri, waarde definitie, waarde toelichting, waarde bron, waarde domein, waarde specialisatie, waarde startdatum, waarde einddatum{
-    display:grid;
-    width:95%;
-    grid-template-columns: 85px auto;
-    margin-left: 60px;
-    }
-
-waarde term:before{content:'Term: '}
-waarde uri:before{content: 'Uri: '}
-waarde definitie:before{content:'Definitie: '}
-waarde toelichting:before{content: 'Toelichting: '}
-waarde bron:before{content: 'Bron: '}
-waarde domein:before{content: 'Domein: '}
-waarde specialisatie:before{content: 'Specialisatie: '}
-waarde symboolcode:before{content: 'Symboolcode: '}
-waarde startdatum:before{content: 'Startdatum: '}
-waarde einddatum:before{content: 'Einddatum: '}
-
-
-waarde symboolcode{
-    display:grid;
-    grid-template-columns: 85px 50px 80px;
-    margin-left: 60px;
-}
-        </xsl:text>
         <xsl:apply-templates select="//*[local-name()='Rule']"/>
     </xsl:template>
     <xd:doc>
@@ -125,12 +27,11 @@ waarde symboolcode{
         <xsl:variable name="border-color" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke']/text()"/>
         <xsl:variable name="border-opacity" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-opacity']/text()"/>
         <xsl:variable name="image_url" select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
-        <xsl:text>&#xa;symboolcode[id='</xsl:text>
+        <xsl:text>&#xa;symboolcode vlak[id='</xsl:text>
         <xsl:value-of select="$symboolcode"/>
         <xsl:text>']::after{</xsl:text> 
         <xsl:text>&#xa;&#x9;content:'\00A0';</xsl:text>
-        <xsl:text>&#xa;&#x9;line-height: 40px;</xsl:text>
-        <xsl:text>&#xa;&#x9;margin-bottom: 5px;</xsl:text>
+        <xsl:text>&#xa;&#x9;line-height: 30px;</xsl:text>
         <!-- image of vlakvulling -->
         <xsl:choose>
             <xsl:when test="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href">
