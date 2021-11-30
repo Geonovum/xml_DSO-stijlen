@@ -57,53 +57,6 @@
             <xsl:otherwise>solid;</xsl:otherwise>
         </xsl:choose>
         <xsl:text>&#xa;&#x9;margin-right: 10px;</xsl:text>
-        
-<!--        <!-\- image of vlakvulling -\->
-        <xsl:choose>
-            <xsl:when test="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href">
-                <xsl:text>&#xa;&#x9;background-image:url('</xsl:text>
-                <xsl:value-of select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
-                <xsl:text>');</xsl:text>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:variable name="background-color" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter'][@name = 'fill']/text()"/>
-                <xsl:variable name="background-opacity" select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter'][@name = 'fill-opacity']/text()"/>
-                <xsl:text>&#xa;&#x9;background-color: rgba(</xsl:text>
-                <xsl:call-template name="hex2num">
-                    <xsl:with-param name="hex">
-                        <xsl:value-of select="fn:substring($background-color, 2, 2)"/>
-                    </xsl:with-param>
-                </xsl:call-template>
-                <xsl:text>,</xsl:text>
-                <xsl:call-template name="hex2num">
-                    <xsl:with-param name="hex">
-                        <xsl:value-of select="fn:substring($background-color, 4, 2)"/>
-                    </xsl:with-param></xsl:call-template>
-                <xsl:text>,</xsl:text>
-                <xsl:call-template name="hex2num">
-                    <xsl:with-param name="hex">
-                        <xsl:value-of select="fn:substring($background-color, 6, 2)"/>
-                    </xsl:with-param></xsl:call-template>
-                <xsl:text>,</xsl:text>
-                <xsl:value-of select="$background-opacity"/>
-                <xsl:text>);</xsl:text>
-            </xsl:otherwise>
-        </xsl:choose>
-        <xsl:text>&#xa;&#x9;border-width:</xsl:text>
-        <xsl:value-of select="$border-width"/>
-        <xsl:text>px;</xsl:text>
-        <xsl:text>&#xa;&#x9;border-color: </xsl:text>
-        <xsl:value-of select="$border-color"/>
-        <xsl:text>;</xsl:text>
-        <!-\- controleren op waarde bij stroke-dasharray; er is geen mogelijkheid in CSS om de dasharray in te stellen, alleen een standaard 'dashed' -\->
-        <xsl:choose>
-            <xsl:when test="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()">
-                <xsl:text>&#xa;&#x9;border-style: dashed;</xsl:text>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:text>&#xa;&#x9;border-style: solid;</xsl:text>
-            </xsl:otherwise>
-        </xsl:choose>-->
         <xsl:text>&#xa;&#x9;}</xsl:text>
     </xsl:template>
     <xd:doc>

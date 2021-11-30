@@ -28,6 +28,7 @@
         <xd:desc>Loop alle FeatureTypeStyles </xd:desc>
     </xd:doc>
     <xsl:template match="/">
+        <xsl:text>&lt;!DOCTYPE html&gt;</xsl:text>
         <xsl:element name="html">
             <xsl:element name="head">
                 <xsl:element name="link">
