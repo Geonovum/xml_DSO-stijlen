@@ -11,7 +11,7 @@
     <xd:doc scope="stylesheet">
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b> Aug 18, 2020</xd:p>
-            <xd:p><xd:b>Author:</xd:b> W10_admin</xd:p>
+            <xd:p><xd:b>Author:</xd:b>Kasper Lingbeek</xd:p>
             <xd:p>Van SLD naar CSS voor de waardelijst</xd:p>
         </xd:desc>
     </xd:doc>
