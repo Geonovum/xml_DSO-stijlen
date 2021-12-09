@@ -66,9 +66,25 @@
         <xsl:text>&#xa;&#x9;border-width:</xsl:text>
         <xsl:value-of select="$border-width"/>
         <xsl:text>px;</xsl:text>
-        <xsl:text>&#xa;&#x9;border-color: </xsl:text>
-        <xsl:value-of select="$border-color"/>
-        <xsl:text>;</xsl:text>
+        <xsl:text>&#xa;&#x9;border-color: rgba(</xsl:text>
+        <xsl:call-template name="hex2num">
+            <xsl:with-param name="hex">
+                <xsl:value-of select="fn:substring($border-color, 2, 2)"/>
+            </xsl:with-param>
+        </xsl:call-template>
+        <xsl:text>,</xsl:text>
+        <xsl:call-template name="hex2num">
+            <xsl:with-param name="hex">
+                <xsl:value-of select="fn:substring($border-color, 4, 2)"/>
+            </xsl:with-param></xsl:call-template>
+        <xsl:text>,</xsl:text>
+        <xsl:call-template name="hex2num">
+            <xsl:with-param name="hex">
+                <xsl:value-of select="fn:substring($border-color, 6, 2)"/>
+            </xsl:with-param></xsl:call-template>
+        <xsl:text>,</xsl:text>
+        <xsl:value-of select="$border-opacity"/>
+        <xsl:text>);</xsl:text>
         <!-- controleren op waarde bij stroke-dasharray; er is geen mogelijkheid in CSS om de dasharray in te stellen, alleen een standaard 'dashed' -->
         <xsl:choose>
             <xsl:when test="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()">
