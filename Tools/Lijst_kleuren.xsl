@@ -5,7 +5,10 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
-    
+    <!-- Lijst kleuren uit een SLD
+         - SvgParameter waarvan fill-opacity niet 0 is
+         - laatste 2 cijfers uit Name van Rule = symboolcode
+         - fill = kleurcode (3-delige hexadecimale code: rood, groen en blauw) -->
     <xsl:template match="/">
         <xsl:element name="kleuren">
             <xsl:variable name="reeks" select="distinct-values(//*[local-name()='Rule'][.//*[local-name()='SvgParameter'][@name='fill-opacity' and text()!='0']]//*[local-name()='SvgParameter'][@name='fill']/concat(fn:substring(./../../*[local-name()='Name'],fn:string-length(./../../*[local-name()='Name'])-1),'|',text()))"/>
