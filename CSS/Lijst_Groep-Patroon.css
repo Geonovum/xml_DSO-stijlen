@@ -1,0 +1,11 @@
+@import "waardelijst_css_v1.2.0_vlak.css";
+
+functiegroepen{display:grid;border:1px solid black;}
+functiegroep{display:grid;grid-template-columns:200px 0px;padding:0px;}
+term{display:grid;padding:5px;border-bottom:1px solid black;}
+subgroepen{display:grid;}
+subgroep{display:grid;grid-template-columns:200px 160px 300px;border:1px solid black;}
+naam{display:grid;padding:5px;}
+opmerking{display:grid;border-left:1px solid black;}
+vlak{display:grid;grid-template-columns:80px 80px;font-weight:bold;padding-bottom:1px;text-indent:10px;border-left:1px solid black;}
+vlak::after{display:grid;margin:5px;}

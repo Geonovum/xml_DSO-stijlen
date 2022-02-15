@@ -1,0 +1,17 @@
+@import "waardelijst_css_v1.1.1_vlak.css";
+
+functiegroepen{display:grid;padding:5px;}
+
+/*symboolcode:before{display:grid;content:'Symbool: ';}*/
+symboolcode{display:grid;grid-template-columns:100px 300px 600px ;}
+
+vlak{display:grid;grid-template-rows:20px 40px;font-weight:bold;padding-bottom:5px;border-top:2px solid black;border-left:2px solid black;border-right:1px solid black;text-indent:10px;}
+vlak::after{display:grid;margin:5px}
+
+waarden{display:grid;text-indent:10px;}
+
+term{display:grid;border-top:1px solid black;border-left:1px solid black}
+
+waarden{display:grid;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black}
+
+label{display:grid}

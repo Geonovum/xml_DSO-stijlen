@@ -1,0 +1,7359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../CSS/Lijst_waarden_bij_symboolcodes.css"?>
+<symboolcodes>
+   <symboolcode>
+      <vlak id="vag000">vag000</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag100">vag100</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag200">vag200</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenLeiding</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag300">vag300</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag400">vag400</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>BouwactiviteitRuimtelijk</label>
+            <label>BouwactiviteitTechnisch</label>
+            <label>GebruikenVanBouwwerkenactiviteit</label>
+            <label>InStandHoudenVanBouwwerkenactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag500">vag500</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah000">vah000</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah100">vah100</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah200">vah200</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah300">vah300</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah400">vah400</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah500">vah500</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz000">vaz000</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz100">vaz100</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz200">vaz200</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz300">vaz300</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz400">vaz400</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz500">vaz500</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <waardelijsten>
+         <term>Activiteitregelkwalificatie</term>
+         <waarden>
+            <label>AndersGeduid</label>
+            <label>Gebod</label>
+            <label>Informatieplicht</label>
+            <label>Meldingsplicht</label>
+            <label>Toegestaan</label>
+            <label>Verbod</label>
+            <label>Vergunningplicht</label>
+            <label>Zorgplicht</label>
+         </waarden>
+         <term>Adressaat</term>
+         <waarden>
+            <label>BeheerderSpoor</label>
+            <label>Faunabeheereenheid</label>
+            <label>Gemeentebestuur</label>
+            <label>Korpschef</label>
+            <label>Provinciebestuur</label>
+            <label>Rijk</label>
+            <label>Waterschapsbestuur</label>
+            <label>Wildbeheereenheid</label>
+            <label>Zonebeheerder</label>
+         </waarden>
+         <term>Bouwgroep</term>
+         <waarden>
+            <label>Bouwvlak</label>
+            <label>Rooilijn</label>
+         </waarden>
+         <term>Eenheid</term>
+         <waarden>
+            <label>AGewogenGemiddeldeGeluidsniveau</label>
+            <label>AGewogenGemiddeldeGeluidsniveauAvondperiode</label>
+            <label>AGewogenGemiddeldeGeluidsniveauDagperiode</label>
+            <label>AGewogenGemiddeldeGeluidsniveauNachtperiode</label>
+            <label>Aantal</label>
+            <label>Bouwlaag</label>
+            <label>Centimeter</label>
+            <label>Decibel</label>
+            <label>DecibelMetAWeging</label>
+            <label>GemiddeldGeluidsniveauOverHetEtmaal</label>
+            <label>GraadHoek</label>
+            <label>GraadCelsius</label>
+            <label>Kilogram</label>
+            <label>Kilometer</label>
+            <label>Kilopascal</label>
+            <label>KubiekeMeter</label>
+            <label>Liter</label>
+            <label>Meter</label>
+            <label>MicrogramPerKilogram</label>
+            <label>MicrogramPerKubiekeMeter</label>
+            <label>MicrogramPerLiter</label>
+            <label>Milligram</label>
+            <label>MilligramPerLiter</label>
+            <label>Millimeter</label>
+            <label>Minuut</label>
+            <label>NogToeTeVoegen</label>
+            <label>OdourUnit</label>
+            <label>Procent</label>
+            <label>Seconde</label>
+            <label>Uur</label>
+            <label>VierkanteKilometer</label>
+            <label>VierkanteMeter</label>
+            <label>Watt</label>
+         </waarden>
+         <term>Idealisatie</term>
+         <waarden>
+            <label>Exact</label>
+            <label>Indicatief</label>
+         </waarden>
+         <term>Instrument</term>
+         <waarden>
+            <label>BesluitGeldelijkeRegelingen</label>
+            <label>BesluitOverGeluidwerendeMaatregelen</label>
+            <label>BesluitTotAanwijzingVanNationaalPark</label>
+            <label>BesluitTotAanwijzingVanNatuurgebied</label>
+            <label>BesluitTotAanwijzingVanZwemlocatie</label>
+            <label>BesluitTotBeperkenOfVerbiedenVanToegangTotNatura2000Gebied</label>
+            <label>BesluitTotBuitenToepassingLatenVanRegels</label>
+            <label>BesluitTotErkenningVanExamen</label>
+            <label>BesluitTotInstellenVanZwemverbodOfGevenNegatiefZwemadvies</label>
+            <label>BesluitTotTreffenVanTijdelijkeBodembeschermingsmaatregelen</label>
+            <label>BesluitTotVaststellingVanBeginEnEindeBadseizoen</label>
+            <label>BesluitTotVaststellingVanGeluidproductieplafondsAlsOmgevingswaarden</label>
+            <label>Calamiteitenplan</label>
+            <label>Legger</label>
+            <label>Maatwerkvoorschrift</label>
+            <label>Monitoringsprogramma</label>
+            <label>Omgevingsplan</label>
+            <label>Omgevingsverordening</label>
+            <label>Peilbesluit</label>
+            <label>PlanWaarvoorPassendeBeoordelingGemaaktMoetWorden</label>
+            <label>Programma</label>
+            <label>Projectbesluit</label>
+            <label>Ruilbesluit</label>
+            <label>Waterschapsverordening</label>
+         </waarden>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>MaatvoeringBouwen</label>
+         </waarden>
+         <term>Thema</term>
+         <waarden>
+            <label>Bodem</label>
+            <label>Bouwwerken</label>
+            <label>CultureelErfgoed</label>
+            <label>EnergieEnNatuurlijkeHulpbronnen</label>
+            <label>ExterneVeiligheid</label>
+            <label>Geluid</label>
+            <label>Gezondheid</label>
+            <label>Infrastructuur</label>
+            <label>Landgebruik</label>
+            <label>Landschap</label>
+            <label>Lucht</label>
+            <label>MilieuAlgemeen</label>
+            <label>Natuur</label>
+            <label>Procedures</label>
+            <label>WaterEnWatersystemen</label>
+         </waarden>
+         <term>TypeGebiedsaanwijzing</term>
+         <waarden>
+            <label>Beperkingengebied</label>
+            <label>Bodem</label>
+            <label>Bouw</label>
+            <label>Defensie</label>
+            <label>Energievoorziening</label>
+            <label>Erfgoed</label>
+            <label>ExterneVeiligheid</label>
+            <label>Functie</label>
+            <label>Geluid</label>
+            <label>Geur</label>
+            <label>Landschap</label>
+            <label>Leiding</label>
+            <label>Lucht</label>
+            <label>Mijnbouw</label>
+            <label>Natuur</label>
+            <label>Recreatie</label>
+            <label>RuimtelijkGebruik</label>
+            <label>Verkeer</label>
+            <label>WaterEnWatersysteem</label>
+         </waarden>
+         <term>TypeNorm</term>
+         <waarden>
+            <label>Aaneengebouwd</label>
+            <label>AantalAaneenTeBouwenWoningen</label>
+            <label>AantalAaneenTeBouwenWooneenheden</label>
+            <label>AantalBedrijfswoningen</label>
+            <label>AantalBedrijven</label>
+            <label>AantalBezoekers</label>
+            <label>AantalBouwlagen</label>
+            <label>AantalGebouwen</label>
+            <label>AantalGebouwenMetFunctioneleBinding</label>
+            <label>AantalParkeerplaatsen</label>
+            <label>AantalRijstroken</label>
+            <label>AantalSporen</label>
+            <label>AantalWinkels</label>
+            <label>AantalWoningen</label>
+            <label>AantalWooneenheden</label>
+            <label>Antennemast</label>
+            <label>BebouwdeOppervlakte</label>
+            <label>Bebouwingspercentage</label>
+            <label>Bijgebouwen</label>
+            <label>Bouwhoogte</label>
+            <label>Breedte</label>
+            <label>Dakhelling</label>
+            <label>Diepte</label>
+            <label>Gestapeld</label>
+            <label>Goothoogte</label>
+            <label>Hoogte</label>
+            <label>Kap</label>
+            <label>Karakteristiek</label>
+            <label>Lengte</label>
+            <label>Maatvoering</label>
+            <label>MaximumAantalAaneenTeBouwenWoningen</label>
+            <label>MaximumAantalAaneenTeBouwenWooneenheden</label>
+            <label>MaximumAantalBedrijfswoningen</label>
+            <label>MaximumAantalBedrijven</label>
+            <label>MaximumAantalBezoekers</label>
+            <label>MaximumAantalBouwlagen</label>
+            <label>MaximumAantalGebouwen</label>
+            <label>MaximumAantalGebouwenMetFunctioneleBinding</label>
+            <label>MaximumAantalParkeerplaatsen</label>
+            <label>MaximumAantalRijstroken</label>
+            <label>MaximumAantalSporen</label>
+            <label>MaximumAantalWinkels</label>
+            <label>MaximumAantalWoningen</label>
+            <label>MaximumAantalWooneenheden</label>
+            <label>MaximumBebouwdeOppervlakte</label>
+            <label>MaximumBebouwingspercentage</label>
+            <label>MaximumBouwhoogte</label>
+            <label>MaximumBreedte</label>
+            <label>MaximumDakhelling</label>
+            <label>MaximumDiepte</label>
+            <label>MaximumGoothoogte</label>
+            <label>MaximumHoogte</label>
+            <label>MaximumLengte</label>
+            <label>MaximumOppervlakte</label>
+            <label>MaximumVerticaleBouwdiepte</label>
+            <label>MaximumVloeroppervlakte</label>
+            <label>MaximumVloeroppervlakteBruto</label>
+            <label>MaximumVloeroppervlakteNetto</label>
+            <label>MaximumVolume</label>
+            <label>MinimumAantalAaneenTeBouwenWoningen</label>
+            <label>MinimumAantalAaneenTeBouwenWooneenheden</label>
+            <label>MinimumAantalBedrijfswoningen</label>
+            <label>MinimumAantalBedrijven</label>
+            <label>MinimumAantalBezoekers</label>
+            <label>MinimumAantalBouwlagen</label>
+            <label>MinimumAantalGebouwen</label>
+            <label>MinimumAantalGebouwenMetFunctioneleBinding</label>
+            <label>MinimumAantalParkeerplaatsen</label>
+            <label>MinimumAantalRijstroken</label>
+            <label>MinimumAantalSporen</label>
+            <label>MinimumAantalWinkels</label>
+            <label>MinimumAantalWoningen</label>
+            <label>MinimumAantalWooneenheden</label>
+            <label>MinimumBebouwdeOppervlakte</label>
+            <label>MinimumBebouwingspercentage</label>
+            <label>MinimumBouwhoogte</label>
+            <label>MinimumBreedte</label>
+            <label>MinimumDakhelling</label>
+            <label>MinimumDiepte</label>
+            <label>MinimumGoothoogte</label>
+            <label>MinimumHoogte</label>
+            <label>MinimumLengte</label>
+            <label>MinimumOppervlakte</label>
+            <label>MinimumVerticaleBouwdiepte</label>
+            <label>MinimumVloeroppervlakte</label>
+            <label>MinimumVloeroppervlakteBruto</label>
+            <label>MinimumVloeroppervlakteNetto</label>
+            <label>MinimumVolume</label>
+            <label>NogToeTeVoegen</label>
+            <label>Nokrichting</label>
+            <label>Onderdoorgang</label>
+            <label>Oppervlakte</label>
+            <label>PlatDak</label>
+            <label>TweeAaneen</label>
+            <label>VerticaleBouwdiepte</label>
+            <label>Vloeroppervlakte</label>
+            <label>VloeroppervlakteBruto</label>
+            <label>VloeroppervlakteNetto</label>
+            <label>Volume</label>
+            <label>Vrijstaand</label>
+            <label>Welstandsniveau</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh000">voh000</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg001">vsg001</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Agrarisch</label>
+            <label>Glastuinbouw</label>
+            <label>Landbouw</label>
+            <label>LandelijkGebied</label>
+            <label>OntwikkelingLandelijkeFuncties</label>
+            <label>OpenLandschap</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Landbouw</label>
+            <label>LandelijkGebied</label>
+            <label>LandelijkGebiedAgrarisch</label>
+            <label>OntwikkelingLandelijkeFuncties</label>
+            <label>SpecifiekTeeltgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg101">vsg101</vlak>
+      <waardelijsten>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Glastuinbouw</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt001">vsgt001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt101">vsgt101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh001">vsh001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh101">vsh101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht001">vsht001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht101">vsht101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz001">vsz001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt001">vszt001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag001">vag001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag101">vag101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag201">vag201</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag301">vag301</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag401">vag401</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag501">vag501</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah001">vah001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah101">vah101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah201">vah201</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah301">vah301</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah401">vah401</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah501">vah501</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz001">vaz001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz101">vaz101</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz201">vaz201</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz301">vaz301</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz401">vaz401</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz501">vaz501</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog001">vog001</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>MaatvoeringInfrastructuur</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh001">voh001</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg002">vsg002</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Concentratiegebied</label>
+            <label>Duingebied</label>
+            <label>Duinwatergebied</label>
+         </waarden>
+         <term>Geurgroep</term>
+         <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Concentratiegebied</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Duingebied</label>
+            <label>Duinwatergebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg102">vsg102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt002">vsgt002</vlak>
+      <waardelijsten>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>Toegangsbeperkingsgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt102">vsgt102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh002">vsh002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh102">vsh102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht002">vsht002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht102">vsht102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz002">vsz002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt002">vszt002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag002">vag002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag102">vag102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag202">vag202</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag302">vag302</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag402">vag402</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Toegangsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag502">vag502</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah002">vah002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah102">vah102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah202">vah202</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah302">vah302</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah402">vah402</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah502">vah502</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz002">vaz002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz102">vaz102</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz202">vaz202</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz302">vaz302</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz402">vaz402</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz502">vaz502</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog002">vog002</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Geur</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh002">voh002</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg003">vsg003</vlak>
+      <waardelijsten>
+         <term>Bodemgroep</term>
+         <waarden>
+            <label>StortplaatsGesloten</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Bedrijf</label>
+            <label>GeslotenStortplaats</label>
+            <label>Veehouderij</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg103">vsg103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt003">vsgt003</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Geluid</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Veehouderij</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt103">vsgt103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh003">vsh003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh103">vsh103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht003">vsht003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht103">vsht103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz003">vsz003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt003">vszt003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag003">vag003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag103">vag103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag203">vag203</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag303">vag303</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag403">vag403</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>ExploitatieactiviteitBedrijf</label>
+            <label>ExploitatieactiviteitKantoor</label>
+            <label>Opslagactiviteit</label>
+            <label>Sloopactiviteit</label>
+            <label>VerrichtenVanWerkenEnWerkzaamhedenactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag503">vag503</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah003">vah003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah103">vah103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah203">vah203</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah303">vah303</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah403">vah403</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah503">vah503</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz003">vaz003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz103">vaz103</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz203">vaz203</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz303">vaz303</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz403">vaz403</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz503">vaz503</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog003">vog003</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Geluid</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh003">voh003</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg004">vsg004</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>StedelijkGebiedGroenStedelijk</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>StedelijkGebiedGroenStedelijk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg104">vsg104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt004">vsgt004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt104">vsgt104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh004">vsh004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh104">vsh104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht004">vsht004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht104">vsht104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz004">vsz004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt004">vszt004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag004">vag004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag104">vag104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag204">vag204</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag304">vag304</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag404">vag404</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Kapactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag504">vag504</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah004">vah004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah104">vah104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah204">vah204</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah304">vah304</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah404">vah404</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah504">vah504</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz004">vaz004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz104">vaz104</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz204">vaz204</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz304">vaz304</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz404">vaz404</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz504">vaz504</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog004">vog004</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Bouwaanduiding</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh004">voh004</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg005">vsg005</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Centrumgebied</label>
+            <label>StedelijkGebiedCentrumDorps</label>
+            <label>StedelijkGebiedCentrumStedelijk</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>StedelijkGebiedCentrumDorps</label>
+            <label>StedelijkGebiedCentrumStedelijk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg105">vsg105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt005">vsgt005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt105">vsgt105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh005">vsh005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh105">vsh105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht005">vsht005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht105">vsht105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz005">vsz005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt005">vszt005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag005">vag005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag105">vag105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag205">vag205</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag305">vag305</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag405">vag405</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>AgrarischeActiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag505">vag505</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah005">vah005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah105">vah105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah205">vah205</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah305">vah305</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah405">vah405</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah505">vah505</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz005">vaz005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz105">vaz105</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz205">vaz205</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz305">vaz305</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz405">vaz405</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz505">vaz505</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog005">vog005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh005">voh005</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg006">vsg006</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>Buitenplaats</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>AardkundigeWaarde</label>
+            <label>BeschermdGezicht</label>
+            <label>BeschermdMonument</label>
+            <label>Buitenplaats</label>
+            <label>Cultuur</label>
+            <label>CultuurhistorischBeschermdLandschap</label>
+            <label>CultuurhistorischWaardevolGebied</label>
+            <label>Erfgoed</label>
+            <label>Waarde</label>
+            <label>Werelderfgoed</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg106">vsg106</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>BeschermdMonument</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt006">vsgt006</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>Linie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt106">vsgt106</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>Archeologie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh006">vsh006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh106">vsh106</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht006">vsht006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht106">vsht106</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz006">vsz006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt006">vszt006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag006">vag006</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>CultureelErfgoed</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag106">vag106</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>CultuurhistorischBeschermdLandschap</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag206">vag206</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Molen</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag306">vag306</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>Werelderfgoed</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag406">vag406</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>CultureelErfgoedactiviteit</label>
+            <label>Cultuuractiviteit</label>
+            <label>Monumentenactiviteit</label>
+            <label>Rijksmonumentenactiviteit</label>
+            <label>Werelderfgoedactiviteit</label>
+         </waarden>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>CultuurhistorischWaardevolGebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag506">vag506</vlak>
+      <waardelijsten>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>AardkundigWaardevolGebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah006">vah006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah106">vah106</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah206">vah206</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah306">vah306</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah406">vah406</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah506">vah506</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz006">vaz006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz106">vaz106</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz206">vaz206</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz306">vaz306</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz406">vaz406</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz506">vaz506</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog006">vog006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh006">voh006</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg007">vsg007</vlak>
+      <waardelijsten>
+         <term>Bodemgroep</term>
+         <waarden>
+            <label>Bodembeheergebied</label>
+            <label>Bodemdalingsgebied</label>
+            <label>Mijnsteengebied</label>
+            <label>Ontgrondingsgebied</label>
+            <label>Zandwinningsgebied</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Detailhandel</label>
+            <label>Ontgrondingsgebied</label>
+            <label>OpenStortplaats</label>
+            <label>Zandwinning</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Detailhandel</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg107">vsg107</vlak>
+      <waardelijsten>
+         <term>Bodemgroep</term>
+         <waarden>
+            <label>StortplaatsOpen</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt007">vsgt007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt107">vsgt107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh007">vsh007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh107">vsh107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht007">vsht007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht107">vsht107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz007">vsz007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt007">vszt007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag007">vag007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag107">vag107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag207">vag207</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Bodemactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag307">vag307</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag407">vag407</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>ExploitatieactiviteitDetailhandel</label>
+            <label>Standplaatsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag507">vag507</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah007">vah007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah107">vah107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah207">vah207</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah307">vah307</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah407">vah407</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah507">vah507</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz007">vaz007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz107">vaz107</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz207">vaz207</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz307">vaz307</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz407">vaz407</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz507">vaz507</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog007">vog007</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Bodem</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh007">voh007</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg008">vsg008</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Dienstverlening</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg108">vsg108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt008">vsgt008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt108">vsgt108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh008">vsh008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh108">vsh108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht008">vsht008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht108">vsht108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz008">vsz008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt008">vszt008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag008">vag008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag108">vag108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag208">vag208</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag308">vag308</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag408">vag408</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Dienstverleningsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag508">vag508</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah008">vah008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah108">vah108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah208">vah208</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah308">vah308</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah408">vah408</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah508">vah508</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz008">vaz008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz108">vaz108</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz208">vaz208</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz308">vaz308</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz408">vaz408</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz508">vaz508</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog008">vog008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh008">voh008</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg009">vsg009</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Aandachtsgebied</label>
+            <label>AandachtsgebiedGeluid</label>
+            <label>Belemmeringengebied</label>
+            <label>Herstructureringsgebied</label>
+            <label>StedelijkGebiedBuitenCentrum</label>
+            <label>StedelijkUitloopgebied</label>
+            <label>Transformatiegebied</label>
+         </waarden>
+         <term>Geluidgroep</term>
+         <waarden>
+            <label>AandachtsgebiedGeluid</label>
+            <label>AgglomeratieRichtlijnOmgevingslawaai</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Afvalstoffen</label>
+            <label>LandelijkGebiedStedelijkUitloopgebied</label>
+            <label>StedelijkGebiedBuitenCentrum</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg109">vsg109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt009">vsgt009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt109">vsgt109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh009">vsh009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh109">vsh109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht009">vsht009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht109">vsht109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz009">vsz009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt009">vszt009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag009">vag009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag109">vag109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag209">vag209</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Herstructureringsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag309">vag309</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag409">vag409</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>MilieubelastendeActiviteitOverig</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag509">vag509</vlak>
+      <waardelijsten>
+         <term>Geluidgroep</term>
+         <waarden>
+            <label>Stiltegebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah009">vah009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah109">vah109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah209">vah209</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah309">vah309</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah409">vah409</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah509">vah509</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz009">vaz009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz109">vaz109</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz209">vaz209</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz309">vaz309</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz409">vaz409</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz509">vaz509</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog009">vog009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh009">voh009</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg010">vsg010</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Archeologie</label>
+            <label>Bodembeheergebied</label>
+            <label>Bodemdalingsgebied</label>
+            <label>Groen</label>
+            <label>StilGebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg110">vsg110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt010">vsgt010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt110">vsgt110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh010">vsh010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh110">vsh110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht010">vsht010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht110">vsht110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz010">vsz010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt010">vszt010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag010">vag010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag110">vag110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag210">vag210</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag310">vag310</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag410">vag410</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Landinrichtingsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag510">vag510</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah010">vah010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah110">vah110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah210">vah210</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah310">vah310</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah410">vah410</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah510">vah510</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz010">vaz010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz110">vaz110</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz210">vaz210</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz310">vaz310</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz410">vaz410</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz510">vaz510</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog010">vog010</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Groen</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh010">voh010</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg011">vsg011</vlak>
+      <waardelijsten>
+         <term>ExterneVeiligheidgroep</term>
+         <waarden>
+            <label>AandachtsgebiedExterneVeiligheid</label>
+            <label>BelemmeringengebiedBuisleidingen</label>
+            <label>GebiedMetOntplofbareStoffenEnExplosieven</label>
+            <label>Risicogebied</label>
+            <label>Voorschriftengebied</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>AandachtsgebiedExterneVeiligheid</label>
+            <label>Horeca</label>
+            <label>RisicogebiedExterneVeiligheid</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg111">vsg111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt011">vsgt011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt111">vsgt111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh011">vsh011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh111">vsh111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht011">vsht011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht111">vsht111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz011">vsz011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt011">vszt011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag011">vag011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag111">vag111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag211">vag211</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag311">vag311</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag411">vag411</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>ExploitatieactiviteitHoreca</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag511">vag511</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah011">vah011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah111">vah111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah211">vah211</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah311">vah311</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah411">vah411</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah511">vah511</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz011">vaz011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz111">vaz111</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz211">vaz211</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz311">vaz311</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz411">vaz411</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz511">vaz511</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog011">vog011</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>ExterneVeiligheid</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh011">voh011</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg012">vsg012</vlak>
+      <waardelijsten>
+         <term>ExterneVeiligheidgroep</term>
+         <waarden>
+            <label>PlaatsgebondenRisico</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Kantoor</label>
+            <label>Kantoorlocatie</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Kantoorlocatie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg112">vsg112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt012">vsgt012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt112">vsgt112</vlak>
+      <waardelijsten>
+         <term>Energievoorzieninggroep</term>
+         <waarden>
+            <label>Windturbinegebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh012">vsh012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh112">vsh112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht012">vsht012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht112">vsht112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz012">vsz012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt012">vszt012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag012">vag012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag112">vag112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag212">vag212</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag312">vag312</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag412">vag412</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Overig</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag512">vag512</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah012">vah012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah112">vah112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah212">vah212</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah312">vah312</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah412">vah412</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah512">vah512</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz012">vaz012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz112">vaz112</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz212">vaz212</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz312">vaz312</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz412">vaz412</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz512">vaz512</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog012">vog012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh012">voh012</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg013">vsg013</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Mergelwinning</label>
+         </waarden>
+         <term>Mijnbouwgroep</term>
+         <waarden>
+            <label>Mergelwinning</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg113">vsg113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt013">vsgt013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt113">vsgt113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh013">vsh013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh113">vsh113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht013">vsht013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht113">vsht113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz013">vsz013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt013">vszt013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag013">vag013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag113">vag113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag213">vag213</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag313">vag313</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag413">vag413</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag513">vag513</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah013">vah013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah113">vah113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah213">vah213</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah313">vah313</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah413">vah413</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah513">vah513</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz013">vaz013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz113">vaz113</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz213">vaz213</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz313">vaz313</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz413">vaz413</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz513">vaz513</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog013">vog013</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Bedrijvigheid</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh013">voh013</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg014">vsg014</vlak>
+      <waardelijsten>
+         <term>Defensiegroep</term>
+         <waarden>
+            <label>MilitairTerrein</label>
+            <label>MilitaireLaagvliegroute</label>
+            <label>Radarverstoringsgebied</label>
+            <label>VerstoringsgebiedMilitaireZendEnOntvangstinstallatie</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Maatschappelijk</label>
+            <label>MilitairTerrein</label>
+            <label>MilitaireLaagvliegroute</label>
+            <label>Radarverstoringsgebied</label>
+            <label>VerstoringsgebiedMilitaireZendEnOntvangstinstallatie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg114">vsg114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt014">vsgt014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt114">vsgt114</vlak>
+      <waardelijsten>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>Habitatrichtlijngebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh014">vsh014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh114">vsh114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht014">vsht014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht114">vsht114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz014">vsz014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt014">vszt014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag014">vag014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag114">vag114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag214">vag214</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Weg</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag314">vag314</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag414">vag414</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Grafactiviteit</label>
+            <label>MaatschappelijkeActiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag514">vag514</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah014">vah014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah114">vah114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah214">vah214</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah314">vah314</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah414">vah414</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah514">vah514</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz014">vaz014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz114">vaz114</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz214">vaz214</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz314">vaz314</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz414">vaz414</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz514">vaz514</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog014">vog014</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>MaatvoeringGebruik</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh014">voh014</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg015">vsg015</vlak>
+      <waardelijsten>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>LandelijkGebiedHoofdfunctieLandschap</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg115">vsg115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt015">vsgt015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt115">vsgt115</vlak>
+      <waardelijsten>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>NatuurnetwerkNederland</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh015">vsh015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh115">vsh115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht015">vsht015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht115">vsht115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz015">vsz015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt015">vszt015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag015">vag015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag115">vag115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag215">vag215</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Spoorweg</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag315">vag315</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag415">vag415</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag515">vag515</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah015">vah015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah115">vah115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah215">vah215</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah315">vah315</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah415">vah415</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah515">vah515</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz015">vaz015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz115">vaz115</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz215">vaz215</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz315">vaz315</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz415">vaz415</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz515">vaz515</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog015">vog015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh015">voh015</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg016">vsg016</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>BebouwingscontourJacht</label>
+            <label>BeschermdLandschap</label>
+            <label>BeschermdeBoom</label>
+         </waarden>
+         <term>Landschapgroep</term>
+         <waarden>
+            <label>BijzonderProvinciaalLandschap</label>
+            <label>NationaalLandschap</label>
+         </waarden>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>BebouwingscontourHoutkap</label>
+            <label>BebouwingscontourJacht</label>
+            <label>BijzonderNationaalNatuurgebied</label>
+            <label>BijzonderProvinciaalNatuurgebied</label>
+            <label>NationaalPark</label>
+            <label>Natura2000Gebied</label>
+            <label>Natuurbeheergebied</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>LandelijkGebiedHoofdfunctieNatuur</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg116">vsg116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt016">vsgt016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt116">vsgt116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh016">vsh016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh116">vsh116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht016">vsht016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht116">vsht116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz016">vsz016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt016">vszt016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag016">vag016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag116">vag116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag216">vag216</vlak>
+      <waardelijsten>
+         <term>Landschapgroep</term>
+         <waarden>
+            <label>OpenLandschap</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag316">vag316</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag416">vag416</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Dierenactiviteit</label>
+            <label>FloraEnFaunaActiviteit</label>
+            <label>Jachtgeweeractiviteit</label>
+            <label>Natura2000Activiteit</label>
+            <label>Natuuractiviteit</label>
+            <label>Valkeniersactiviteit</label>
+         </waarden>
+         <term>Landschapgroep</term>
+         <waarden>
+            <label>SpecifiekBenoemdLandschap</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag516">vag516</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah016">vah016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah116">vah116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah216">vah216</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah316">vah316</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah416">vah416</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah516">vah516</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz016">vaz016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz116">vaz116</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz216">vaz216</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz316">vaz316</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz416">vaz416</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz516">vaz516</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog016">vog016</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Natuur</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh016">voh016</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg017">vsg017</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Verblijfsgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg117">vsg117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt017">vsgt017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt117">vsgt117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh017">vsh017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh117">vsh117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht017">vsht017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht117">vsht117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz017">vsz017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt017">vszt017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag017">vag017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag117">vag117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag217">vag217</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag317">vag317</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag417">vag417</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>MilieubelastendeActiviteitMetBeperktEffect</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag517">vag517</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah017">vah017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah117">vah117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah217">vah217</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah317">vah317</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah417">vah417</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah517">vah517</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz017">vaz017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz117">vaz117</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz217">vaz217</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz317">vaz317</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz417">vaz417</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz517">vaz517</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog017">vog017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh017">voh017</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg018">vsg018</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Dagrecreatie</label>
+            <label>Ontspanning</label>
+            <label>Recreatie</label>
+            <label>Verblijfsrecreatie</label>
+         </waarden>
+         <term>Recreatiegroep</term>
+         <waarden>
+            <label>Verblijfsrecreatie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg118">vsg118</vlak>
+      <waardelijsten>
+         <term>Recreatiegroep</term>
+         <waarden>
+            <label>Dagrecreatie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt018">vsgt018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt118">vsgt118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh018">vsh018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh118">vsh118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht018">vsht018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht118">vsht118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz018">vsz018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt018">vszt018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag018">vag018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag118">vag118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag218">vag218</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag318">vag318</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag418">vag418</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Evenementactiviteit</label>
+            <label>Festiviteitactiviteit</label>
+            <label>Kampeeractiviteit</label>
+            <label>Ontspanningsactiviteit</label>
+            <label>Recreatieactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag518">vag518</vlak>
+      <waardelijsten>
+         <term>Recreatiegroep</term>
+         <waarden>
+            <label>KleinschaligeVoorzieningen</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah018">vah018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah118">vah118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah218">vah218</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah318">vah318</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah418">vah418</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah518">vah518</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz018">vaz018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz118">vaz118</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz218">vaz218</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz318">vaz318</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz418">vaz418</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz518">vaz518</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog018">vog018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh018">voh018</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg019">vsg019</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>BebouwingscontourHoutkap</label>
+            <label>Sport</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg119">vsg119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt019">vsgt019</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>AandachtsgebiedLuchtkwaliteit</label>
+         </waarden>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Luchtkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt119">vsgt119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh019">vsh019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh119">vsh119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht019">vsht019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht119">vsht119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz019">vsz019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt019">vszt019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag019">vag019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag119">vag119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag219">vag219</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag319">vag319</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag419">vag419</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Sportactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag519">vag519</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah019">vah019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah119">vah119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah219">vah219</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah319">vah319</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah419">vah419</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah519">vah519</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz019">vaz019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz119">vaz119</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz219">vaz219</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz319">vaz319</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz419">vaz419</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz519">vaz519</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog019">vog019</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Luchtkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh019">voh019</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg020">vsg020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg120">vsg120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt020">vsgt020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt120">vsgt120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh020">vsh020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh120">vsh120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht020">vsht020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht120">vsht120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz020">vsz020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt020">vszt020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag020">vag020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag120">vag120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag220">vag220</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Waterstaatswerk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag320">vag320</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag420">vag420</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag520">vag520</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah020">vah020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah120">vah120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah220">vah220</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah320">vah320</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah420">vah420</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah520">vah520</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz020">vaz020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz120">vaz120</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz220">vaz220</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz320">vaz320</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz420">vaz420</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz520">vaz520</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog020">vog020</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Waterkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh020">voh020</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg021">vsg021</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Infrastructuur</label>
+            <label>Luchthaven</label>
+            <label>Luchtvaart</label>
+            <label>OpenbaarGebied</label>
+            <label>RecreatiefRoutenetwerk</label>
+            <label>Spoorweg</label>
+            <label>Verkeer</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Infrastructuur</label>
+         </waarden>
+         <term>Verkeergroep</term>
+         <waarden>
+            <label>Luchtvaart</label>
+            <label>RecreatieveRoutenetwerken</label>
+            <label>Reserveringsgebied</label>
+            <label>Spoorweg</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Onderhoudspad</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg121">vsg121</vlak>
+      <waardelijsten>
+         <term>Verkeergroep</term>
+         <waarden>
+            <label>Weg</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt021">vsgt021</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Overig</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt121">vsgt121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh021">vsh021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh121">vsh121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht021">vsht021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht121">vsht121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz021">vsz021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt021">vszt021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag021">vag021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag121">vag121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag221">vag221</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenLuchthaven</label>
+            <label>BeperkingengebiedactiviteitMBTEenSpoorweg</label>
+            <label>BeperkingengebiedactiviteitMBTEenWeg</label>
+         </waarden>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Overig</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag321">vag321</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag421">vag421</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Parkeeractiviteit</label>
+            <label>Uitritactiviteit</label>
+            <label>Wegactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag521">vag521</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah021">vah021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah121">vah121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah221">vah221</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah321">vah321</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah421">vah421</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah521">vah521</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz021">vaz021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz121">vaz121</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz221">vaz221</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz321">vaz321</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz421">vaz421</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz521">vaz521</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog021">vog021</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Overig</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh021">voh021</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg022">vsg022</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Intrekgebied</label>
+            <label>Molen</label>
+            <label>Water</label>
+            <label>Waterberging</label>
+            <label>Waterwingebied</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Water</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Oppervaktewaterbeschermingsgebied</label>
+            <label>Oppervlaktewaterbeheergebied</label>
+            <label>Reserveringsgebied</label>
+            <label>Zwemlocatie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg122">vsg122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt022">vsgt022</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>VeiligheidWaterkering</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt122">vsgt122</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Waterwingebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh022">vsh022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh122">vsh122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht022">vsht022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht122">vsht122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz022">vsz022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt022">vszt022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag022">vag022</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Grondwaterbeschermingsgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag122">vag122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag222">vag222</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>InstallatieInWaterstaatswerk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag322">vag322</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>BoringsvijeZone</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag422">vag422</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>GelegenheidTotZwemmenEnBadenBiedenactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag522">vag522</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Intrekgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah022">vah022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah122">vah122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah222">vah222</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah322">vah322</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah422">vah422</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah522">vah522</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz022">vaz022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz122">vaz122</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz222">vaz222</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz322">vaz322</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz422">vaz422</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz522">vaz522</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog022">vog022</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Water</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh022">voh022</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg023">vsg023</vlak>
+      <waardelijsten>
+         <term>Verkeergroep</term>
+         <waarden>
+            <label>Vaarweg</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Bergingsgebied</label>
+            <label>BeschermdeGebieden</label>
+            <label>Natuurbeek</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg123">vsg123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt023">vsgt023</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Zwemwaterkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt123">vsgt123</vlak>
+      <waardelijsten>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>Vogelrichtlijngebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh023">vsh023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh123">vsh123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht023">vsht023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht123">vsht123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz023">vsz023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt023">vszt023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag023">vag023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag123">vag123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag223">vag223</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenInstallatieInEenWaterstaatswerk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag323">vag323</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag423">vag423</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>PlanologischeGebruiksactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <waardelijsten>
+         <term>Bodemgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Defensiegroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Energievoorzieninggroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Erfgoedgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>ExterneVeiligheidgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Geluidgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Geurgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Landschapgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Leidinggroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Luchtgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Mijnbouwgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Natuurgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Recreatiegroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>Verkeergroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah023">vah023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah123">vah123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah223">vah223</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah323">vah323</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah423">vah423</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah523">vah523</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz023">vaz023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz123">vaz123</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz223">vaz223</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz323">vaz323</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz423">vaz423</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz523">vaz523</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog023">vog023</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Zwemwaterkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh023">voh023</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg024">vsg024</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Waterkering</label>
+            <label>Waterstaatswerk</label>
+            <label>ZuiveringtechnischWerk</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Compartimentskering</label>
+            <label>Kade</label>
+            <label>Oppervlaktewaterlichaam</label>
+            <label>OppervlaktewaterlichaamPrimair</label>
+            <label>OppervlaktewaterlichaamProfielVanVrijeRuimte</label>
+            <label>OppervlaktewaterlichaamSecundair</label>
+            <label>OppervlaktewaterlichaamTertiair</label>
+            <label>Vaarweg</label>
+            <label>Waterkering</label>
+            <label>WaterkeringOverig</label>
+            <label>WaterkeringPrimair</label>
+            <label>WaterkeringProfielVanVrijeRuimte</label>
+            <label>Waterstaatswerk</label>
+            <label>Watersysteem</label>
+            <label>ZuiveringtechnischWerk</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg124">vsg124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt024">vsgt024</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Waterkwaliteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt124">vsgt124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh024">vsh024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh124">vsh124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht024">vsht024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht124">vsht124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz024">vsz024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt024">vszt024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag024">vag024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag124">vag124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag224">vag224</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenBergingsgebied</label>
+            <label>BeperkingengebiedactiviteitMBTEenOppervlaktewaterlichaam</label>
+            <label>BeperkingengebiedactiviteitMBTEenWaterkering</label>
+            <label>BeperkingengebiedactiviteitMBTEenWaterstaatswerk</label>
+            <label>BeperkingengebiedactiviteitMBTEenZuiveringtechnischWerk</label>
+            <label>BeperkingengebiedactiviteitMBTGrondwater</label>
+            <label>BeperkingengebiedactiviteitMBTZeegebied</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Peilgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag324">vag324</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag424">vag424</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Hemelwateractiviteit</label>
+            <label>Lozingsactiviteit</label>
+            <label>NoordzeeActiviteit</label>
+            <label>Wateronttrekkingsactiviteit</label>
+            <label>Waterstaatswerkenactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag524">vag524</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah024">vah024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah124">vah124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah224">vah224</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah324">vah324</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah424">vah424</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>WaterkeringRegionaal</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah524">vah524</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz024">vaz024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz124">vaz124</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz224">vaz224</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz324">vaz324</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz424">vaz424</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz524">vaz524</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog024">vog024</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>VeiligheidWaterkering</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh024">voh024</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg025">vsg025</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>OntwikkelingStedelijkeFuncties</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg125">vsg125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt025">vsgt025</vlak>
+      <waardelijsten>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>StedelijkGebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt125">vsgt125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh025">vsh025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh125">vsh125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht025">vsht025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht125">vsht125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz025">vsz025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt025">vszt025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag025">vag025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag125">vag125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag225">vag225</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Beperkingengebiedactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag325">vag325</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag425">vag425</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Alarminstallatieactiviteit</label>
+            <label>MilieubelastendeActiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag525">vag525</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah025">vah025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah125">vah125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah225">vah225</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah325">vah325</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah425">vah425</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah525">vah525</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz025">vaz025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz125">vaz125</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz225">vaz225</vlak>
+      <waardelijsten>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>OntwikkelingStedelijkeFuncties</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz325">vaz325</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz425">vaz425</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz525">vaz525</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog025">vog025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh025">voh025</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg026">vsg026</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Wonen</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg126">vsg126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt026">vsgt026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt126">vsgt126</vlak>
+      <waardelijsten>
+         <term>Energievoorzieninggroep</term>
+         <waarden>
+            <label>ZonneEnergiegebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh026">vsh026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh126">vsh126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht026">vsht026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht126">vsht126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz026">vsz026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt026">vszt026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag026">vag026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag126">vag126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag226">vag226</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag326">vag326</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag426">vag426</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Woonactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag526">vag526</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah026">vah026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah126">vah126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah226">vah226</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah326">vah326</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah426">vah426</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah526">vah526</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz026">vaz026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz126">vaz126</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz226">vaz226</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz326">vaz326</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz426">vaz426</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz526">vaz526</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog026">vog026</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Licht</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh026">voh026</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg027">vsg027</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Reserveringsgebied</label>
+            <label>StedelijkGebied</label>
+            <label>Woongebied</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>LandelijkGebiedVerwevingVanFuncties</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>SpecifiekBenoemdGebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg127">vsg127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt027">vsgt027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt127">vsgt127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh027">vsh027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh127">vsh127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht027">vsht027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht127">vsht127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz027">vsz027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt027">vszt027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag027">vag027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag127">vag127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag227">vag227</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag327">vag327</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag427">vag427</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag527">vag527</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah027">vah027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah127">vah127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah227">vah227</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah327">vah327</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah427">vah427</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah527">vah527</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz027">vaz027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz127">vaz127</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz227">vaz227</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz327">vaz327</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz427">vaz427</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz527">vaz527</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog027">vog027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh027">voh027</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <waardelijsten>
+         <term>Energievoorzieninggroep</term>
+         <waarden>
+            <label>Bodemenergiegebied</label>
+            <label>Energieproductiegebied</label>
+            <label>GrootschaligeElektriciteitsopwekking</label>
+            <label>Hoogspanningsverbinding</label>
+            <label>Kernenergiegebied</label>
+         </waarden>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Bedrijventerrein</label>
+            <label>Bodemenergiegebied</label>
+            <label>Energieproductiegebied</label>
+            <label>Gaswinning</label>
+            <label>GrootschaligeElektriciteitsopwekking</label>
+            <label>Hoogspanningsverbinding</label>
+            <label>Industrie</label>
+            <label>Industrieterrein</label>
+            <label>Moderniseringslocatie</label>
+            <label>Oliewinning</label>
+            <label>Schaliegaswinning</label>
+            <label>ToepassingsgebiedMijnsteen</label>
+            <label>Windturbine</label>
+            <label>ZonneEnergiegebied</label>
+            <label>Zoutwinning</label>
+         </waarden>
+         <term>Mijnbouwgroep</term>
+         <waarden>
+            <label>Algemeen</label>
+            <label>Gaswinning</label>
+            <label>Oliewinning</label>
+            <label>Schaliegaswinning</label>
+            <label>Zoutwinning</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Bedrijventerrein</label>
+            <label>Industrieterrein</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Kustfundament</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg128">vsg128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt028">vsgt028</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Energie</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt128">vsgt128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh028">vsh028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh128">vsh128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht028">vsht028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht128">vsht128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz028">vsz028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt028">vszt028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag028">vag028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag128">vag128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag228">vag228</vlak>
+      <waardelijsten>
+         <term>Beperkingengebiedgroep</term>
+         <waarden>
+            <label>Luchthaven</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag328">vag328</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag428">vag428</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Moderniseringsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag528">vag528</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah028">vah028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah128">vah128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah228">vah228</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah328">vah328</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah428">vah428</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah528">vah528</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz028">vaz028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz128">vaz128</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz228">vaz228</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz328">vaz328</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz428">vaz428</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz528">vaz528</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog028">vog028</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Trilling</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh028">voh028</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg029">vsg029</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Grondwaterbeschermingsgebied</label>
+         </waarden>
+         <term>Luchtgroep</term>
+         <waarden>
+            <label>AandachtsgebiedLuchtkwaliteit</label>
+            <label>LocatieUitgezonderdVanNibm</label>
+            <label>VarendOntgassen</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>ContourBeregeningsbeleid</label>
+            <label>Grondwaterdeelgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg129">vsg129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt029">vsgt029</vlak>
+      <waardelijsten>
+         <term>Omgevingswaardegroep</term>
+         <waarden>
+            <label>Wateroverlast</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt129">vsgt129</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>Waterberging</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh029">vsh029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh129">vsh129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht029">vsht029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht129">vsht129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz029">vsz029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt029">vszt029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag029">vag029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag129">vag129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag229">vag229</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Grondwateractiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag329">vag329</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag429">vag429</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Ligplaatsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag529">vag529</vlak>
+      <waardelijsten>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>GebiedsnormWateroverlast</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah029">vah029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah129">vah129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah229">vah229</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah329">vah329</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah429">vah429</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah529">vah529</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz029">vaz029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz129">vaz129</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz229">vaz229</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz329">vaz329</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz429">vaz429</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz529">vaz529</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog029">vog029</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Wateroverlast</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh029">voh029</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg030">vsg030</vlak>
+      <waardelijsten>
+         <term>Functiegroep</term>
+         <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Overig</label>
+            <label>Voorschriftengebied</label>
+         </waarden>
+         <term>Leidinggroep</term>
+         <waarden>
+            <label>Buisleiding</label>
+            <label>Reserveringsgebied</label>
+            <label>TraceHoogspanning</label>
+         </waarden>
+         <term>RuimtelijkGebruikgroep</term>
+         <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Overig</label>
+         </waarden>
+         <term>WaterEnWatersysteemgroep</term>
+         <waarden>
+            <label>OverigeGebieden</label>
+            <label>Projectgebied</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg130">vsg130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt030">vsgt030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt130">vsgt130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh030">vsh030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsh130">vsh130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht030">vsht030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsht130">vsht130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsz030">vsz030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vszt030">vszt030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag030">vag030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag130">vag130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag230">vag230</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag330">vag330</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag430">vag430</vlak>
+      <waardelijsten>
+         <term>Activiteitengroep</term>
+         <waarden>
+            <label>Aansluitactiviteit</label>
+            <label>Mijnbouwlocatieactiviteit</label>
+            <label>Ontgrondingsactiviteit</label>
+            <label>Reclameactiviteit</label>
+            <label>Stortingsactiviteit</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag530">vag530</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah030">vah030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah130">vah130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah230">vah230</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah330">vah330</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah430">vah430</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah530">vah530</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz030">vaz030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz130">vaz130</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz230">vaz230</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz330">vaz330</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz430">vaz430</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz530">vaz530</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog030">vog030</vlak>
+      <waardelijsten>
+         <term>Omgevingsnormgroep</term>
+         <waarden>
+            <label>Parkeren</label>
+         </waarden>
+      </waardelijsten>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="voh030">voh030</vlak>
+      <waardelijsten>
+         <term/>
+         <waarden/>
+      </waardelijsten>
+   </symboolcode>
+</symboolcodes>

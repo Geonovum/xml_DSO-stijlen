@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../CSS/Lijst_Groep-Patroon.css"?>
+<functiegroepen>
+    <functiegroep>
+        <term>Activiteitengroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam>beperkingengebied</naam>
+                <symboolcode>
+                    <vlak id="vag500">vag500</vlak>
+                </symboolcode>
+                <opmerking></opmerking>
+            </subgroep>
+            <subgroep>
+                <naam>overig</naam>
+                <symboolcode>
+                    <vlak id="vag400">vag400</vlak>
+                </symboolcode>
+                <opmerking></opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Beperkingengebiedgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag200">vag200</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Bodemgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vszt014">vszt014</vlak>
+                </symboolcode>
+                <opmerking>bruin tinten</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Bouwgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="voh000">voh000</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Defensiegroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag000">vag000</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Energievoorzieninggroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vaz000">vaz000</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Erfgoedgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsgt105">vsgt105</vlak>
+                </symboolcode>
+                <opmerking>rood-roze</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>ExterneVeiligheidgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag300">vag300</vlak>
+                </symboolcode>
+                <opmerking>roze tinten</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Functiegroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsg101">vsg101</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Geluidgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vah100">vah100</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Geurgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsgt001">vsgt001</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Landschapgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag304">vag304</vlak>
+                </symboolcode>
+                <opmerking>groen</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Leidinggroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vaz103">vaz103</vlak>
+                </symboolcode>
+                <opmerking>grijs-paars</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Luchtgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vaz120">vaz120</vlak>
+                </symboolcode>
+                <opmerking>blauw</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Mijnbouwgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vah000">vah000</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Natuurgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsgt102">vsgt102</vlak>
+                </symboolcode>
+                <opmerking>groen-bruin</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Omgevingsnormgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsgt200">vsgt200</vlak>
+                </symboolcode>
+                <opmerking>Uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Omgevingswaardegroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsgt200">vsgt200</vlak>
+                </symboolcode>
+                <opmerking>Uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Recreatiegroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag104">vag104</vlak>
+                </symboolcode>
+                <opmerking>groen</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>RuimtelijkGebruikgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vsg001">vsg001</vlak>
+                </symboolcode>
+                <opmerking/>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>Verkeergroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vag100">vag100</vlak>
+                </symboolcode>
+                <opmerking>geen groen</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+    <functiegroep>
+        <term>WaterEnWatersysteemgroep</term>
+        <subgroepen>
+            <subgroep>
+                <naam/>
+                <symboolcode>
+                    <vlak id="vszt003">vszt003</vlak>
+                </symboolcode>
+                <opmerking>geen bruin tinten</opmerking>
+            </subgroep>
+        </subgroepen>
+    </functiegroep>
+</functiegroepen>

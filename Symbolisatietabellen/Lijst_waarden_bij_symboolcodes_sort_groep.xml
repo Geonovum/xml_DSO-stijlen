@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../CSS/Lijst_waarden_bij_symboolcodes_groep.css"?>
+<functiegroepen>
+   <symboolcode>
+      <vlak id="vag200">vag200</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenLeiding</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag207">vag207</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Bodemactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag209">vag209</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Herstructureringsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag221">vag221</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenLuchthaven</label>
+            <label>BeperkingengebiedactiviteitMBTEenSpoorweg</label>
+            <label>BeperkingengebiedactiviteitMBTEenWeg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag223">vag223</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenInstallatieInEenWaterstaatswerk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag224">vag224</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>BeperkingengebiedactiviteitMBTEenBergingsgebied</label>
+            <label>BeperkingengebiedactiviteitMBTEenOppervlaktewaterlichaam</label>
+            <label>BeperkingengebiedactiviteitMBTEenWaterkering</label>
+            <label>BeperkingengebiedactiviteitMBTEenWaterstaatswerk</label>
+            <label>BeperkingengebiedactiviteitMBTEenZuiveringtechnischWerk</label>
+            <label>BeperkingengebiedactiviteitMBTGrondwater</label>
+            <label>BeperkingengebiedactiviteitMBTZeegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag225">vag225</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Beperkingengebiedactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag229">vag229</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Grondwateractiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag400">vag400</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>BouwactiviteitRuimtelijk</label>
+            <label>BouwactiviteitTechnisch</label>
+            <label>GebruikenVanBouwwerkenactiviteit</label>
+            <label>InStandHoudenVanBouwwerkenactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag402">vag402</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Toegangsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag403">vag403</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>ExploitatieactiviteitBedrijf</label>
+            <label>ExploitatieactiviteitKantoor</label>
+            <label>Opslagactiviteit</label>
+            <label>Sloopactiviteit</label>
+            <label>VerrichtenVanWerkenEnWerkzaamhedenactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag404">vag404</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Kapactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag405">vag405</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>AgrarischeActiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag406">vag406</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>CultureelErfgoedactiviteit</label>
+            <label>Cultuuractiviteit</label>
+            <label>Monumentenactiviteit</label>
+            <label>Rijksmonumentenactiviteit</label>
+            <label>Werelderfgoedactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag407">vag407</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>ExploitatieactiviteitDetailhandel</label>
+            <label>Standplaatsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag408">vag408</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Dienstverleningsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag409">vag409</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>MilieubelastendeActiviteitOverig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag410">vag410</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Landinrichtingsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag411">vag411</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>ExploitatieactiviteitHoreca</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag412">vag412</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Overig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag414">vag414</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Grafactiviteit</label>
+            <label>MaatschappelijkeActiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag416">vag416</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Dierenactiviteit</label>
+            <label>FloraEnFaunaActiviteit</label>
+            <label>Jachtgeweeractiviteit</label>
+            <label>Natura2000Activiteit</label>
+            <label>Natuuractiviteit</label>
+            <label>Valkeniersactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag417">vag417</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>MilieubelastendeActiviteitMetBeperktEffect</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag418">vag418</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Evenementactiviteit</label>
+            <label>Festiviteitactiviteit</label>
+            <label>Kampeeractiviteit</label>
+            <label>Ontspanningsactiviteit</label>
+            <label>Recreatieactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag419">vag419</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Sportactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag421">vag421</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Parkeeractiviteit</label>
+            <label>Uitritactiviteit</label>
+            <label>Wegactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag422">vag422</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>GelegenheidTotZwemmenEnBadenBiedenactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag423">vag423</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>PlanologischeGebruiksactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag424">vag424</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Hemelwateractiviteit</label>
+            <label>Lozingsactiviteit</label>
+            <label>NoordzeeActiviteit</label>
+            <label>Wateronttrekkingsactiviteit</label>
+            <label>Waterstaatswerkenactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag425">vag425</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Alarminstallatieactiviteit</label>
+            <label>MilieubelastendeActiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag426">vag426</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Woonactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag428">vag428</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Moderniseringsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag429">vag429</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Ligplaatsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag430">vag430</vlak>
+      <term>Activiteitengroep</term>
+      <waarden>
+            <label>Aansluitactiviteit</label>
+            <label>Mijnbouwlocatieactiviteit</label>
+            <label>Ontgrondingsactiviteit</label>
+            <label>Reclameactiviteit</label>
+            <label>Stortingsactiviteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Activiteitregelkwalificatie</term>
+      <waarden>
+            <label>AndersGeduid</label>
+            <label>Gebod</label>
+            <label>Informatieplicht</label>
+            <label>Meldingsplicht</label>
+            <label>Toegestaan</label>
+            <label>Verbod</label>
+            <label>Vergunningplicht</label>
+            <label>Zorgplicht</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Adressaat</term>
+      <waarden>
+            <label>BeheerderSpoor</label>
+            <label>Faunabeheereenheid</label>
+            <label>Gemeentebestuur</label>
+            <label>Korpschef</label>
+            <label>Provinciebestuur</label>
+            <label>Rijk</label>
+            <label>Waterschapsbestuur</label>
+            <label>Wildbeheereenheid</label>
+            <label>Zonebeheerder</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag206">vag206</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Molen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag214">vag214</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Weg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag215">vag215</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Spoorweg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag220">vag220</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Waterstaatswerk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag221">vag221</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Overig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag222">vag222</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>InstallatieInWaterstaatswerk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag228">vag228</vlak>
+      <term>Beperkingengebiedgroep</term>
+      <waarden>
+            <label>Luchthaven</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg003">vsg003</vlak>
+      <term>Bodemgroep</term>
+      <waarden>
+            <label>StortplaatsGesloten</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg007">vsg007</vlak>
+      <term>Bodemgroep</term>
+      <waarden>
+            <label>Bodembeheergebied</label>
+            <label>Bodemdalingsgebied</label>
+            <label>Mijnsteengebied</label>
+            <label>Ontgrondingsgebied</label>
+            <label>Zandwinningsgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg107">vsg107</vlak>
+      <term>Bodemgroep</term>
+      <waarden>
+            <label>StortplaatsOpen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Bodemgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Bouwgroep</term>
+      <waarden>
+            <label>Bouwvlak</label>
+            <label>Rooilijn</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg014">vsg014</vlak>
+      <term>Defensiegroep</term>
+      <waarden>
+            <label>MilitairTerrein</label>
+            <label>MilitaireLaagvliegroute</label>
+            <label>Radarverstoringsgebied</label>
+            <label>VerstoringsgebiedMilitaireZendEnOntvangstinstallatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Defensiegroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Eenheid</term>
+      <waarden>
+            <label>AGewogenGemiddeldeGeluidsniveau</label>
+            <label>AGewogenGemiddeldeGeluidsniveauAvondperiode</label>
+            <label>AGewogenGemiddeldeGeluidsniveauDagperiode</label>
+            <label>AGewogenGemiddeldeGeluidsniveauNachtperiode</label>
+            <label>Aantal</label>
+            <label>Bouwlaag</label>
+            <label>Centimeter</label>
+            <label>Decibel</label>
+            <label>DecibelMetAWeging</label>
+            <label>GemiddeldGeluidsniveauOverHetEtmaal</label>
+            <label>GraadHoek</label>
+            <label>GraadCelsius</label>
+            <label>Kilogram</label>
+            <label>Kilometer</label>
+            <label>Kilopascal</label>
+            <label>KubiekeMeter</label>
+            <label>Liter</label>
+            <label>Meter</label>
+            <label>MicrogramPerKilogram</label>
+            <label>MicrogramPerKubiekeMeter</label>
+            <label>MicrogramPerLiter</label>
+            <label>Milligram</label>
+            <label>MilligramPerLiter</label>
+            <label>Millimeter</label>
+            <label>Minuut</label>
+            <label>NogToeTeVoegen</label>
+            <label>OdourUnit</label>
+            <label>Procent</label>
+            <label>Seconde</label>
+            <label>Uur</label>
+            <label>VierkanteKilometer</label>
+            <label>VierkanteMeter</label>
+            <label>Watt</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <term>Energievoorzieninggroep</term>
+      <waarden>
+            <label>Bodemenergiegebied</label>
+            <label>Energieproductiegebied</label>
+            <label>GrootschaligeElektriciteitsopwekking</label>
+            <label>Hoogspanningsverbinding</label>
+            <label>Kernenergiegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt112">vsgt112</vlak>
+      <term>Energievoorzieninggroep</term>
+      <waarden>
+            <label>Windturbinegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt126">vsgt126</vlak>
+      <term>Energievoorzieninggroep</term>
+      <waarden>
+            <label>ZonneEnergiegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Energievoorzieninggroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg006">vsg006</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>Buitenplaats</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg106">vsg106</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>BeschermdMonument</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt006">vsgt006</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>Linie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt106">vsgt106</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>Archeologie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag006">vag006</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>CultureelErfgoed</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag106">vag106</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>CultuurhistorischBeschermdLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag306">vag306</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>Werelderfgoed</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag406">vag406</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>CultuurhistorischWaardevolGebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag506">vag506</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>AardkundigWaardevolGebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Erfgoedgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg011">vsg011</vlak>
+      <term>ExterneVeiligheidgroep</term>
+      <waarden>
+            <label>AandachtsgebiedExterneVeiligheid</label>
+            <label>BelemmeringengebiedBuisleidingen</label>
+            <label>GebiedMetOntplofbareStoffenEnExplosieven</label>
+            <label>Risicogebied</label>
+            <label>Voorschriftengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg012">vsg012</vlak>
+      <term>ExterneVeiligheidgroep</term>
+      <waarden>
+            <label>PlaatsgebondenRisico</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>ExterneVeiligheidgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg001">vsg001</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Agrarisch</label>
+            <label>Glastuinbouw</label>
+            <label>Landbouw</label>
+            <label>LandelijkGebied</label>
+            <label>OntwikkelingLandelijkeFuncties</label>
+            <label>OpenLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg002">vsg002</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Concentratiegebied</label>
+            <label>Duingebied</label>
+            <label>Duinwatergebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg003">vsg003</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Bedrijf</label>
+            <label>GeslotenStortplaats</label>
+            <label>Veehouderij</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg004">vsg004</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>StedelijkGebiedGroenStedelijk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg005">vsg005</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Centrumgebied</label>
+            <label>StedelijkGebiedCentrumDorps</label>
+            <label>StedelijkGebiedCentrumStedelijk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg006">vsg006</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>AardkundigeWaarde</label>
+            <label>BeschermdGezicht</label>
+            <label>BeschermdMonument</label>
+            <label>Buitenplaats</label>
+            <label>Cultuur</label>
+            <label>CultuurhistorischBeschermdLandschap</label>
+            <label>CultuurhistorischWaardevolGebied</label>
+            <label>Erfgoed</label>
+            <label>Waarde</label>
+            <label>Werelderfgoed</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg007">vsg007</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Detailhandel</label>
+            <label>Ontgrondingsgebied</label>
+            <label>OpenStortplaats</label>
+            <label>Zandwinning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg008">vsg008</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Dienstverlening</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg009">vsg009</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Aandachtsgebied</label>
+            <label>AandachtsgebiedGeluid</label>
+            <label>Belemmeringengebied</label>
+            <label>Herstructureringsgebied</label>
+            <label>StedelijkGebiedBuitenCentrum</label>
+            <label>StedelijkUitloopgebied</label>
+            <label>Transformatiegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg010">vsg010</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Archeologie</label>
+            <label>Bodembeheergebied</label>
+            <label>Bodemdalingsgebied</label>
+            <label>Groen</label>
+            <label>StilGebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg011">vsg011</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>AandachtsgebiedExterneVeiligheid</label>
+            <label>Horeca</label>
+            <label>RisicogebiedExterneVeiligheid</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg012">vsg012</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Kantoor</label>
+            <label>Kantoorlocatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg013">vsg013</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Mergelwinning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg014">vsg014</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Maatschappelijk</label>
+            <label>MilitairTerrein</label>
+            <label>MilitaireLaagvliegroute</label>
+            <label>Radarverstoringsgebied</label>
+            <label>VerstoringsgebiedMilitaireZendEnOntvangstinstallatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg016">vsg016</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>BebouwingscontourJacht</label>
+            <label>BeschermdLandschap</label>
+            <label>BeschermdeBoom</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg017">vsg017</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Verblijfsgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg018">vsg018</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Dagrecreatie</label>
+            <label>Ontspanning</label>
+            <label>Recreatie</label>
+            <label>Verblijfsrecreatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg019">vsg019</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>BebouwingscontourHoutkap</label>
+            <label>Sport</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg021">vsg021</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Infrastructuur</label>
+            <label>Luchthaven</label>
+            <label>Luchtvaart</label>
+            <label>OpenbaarGebied</label>
+            <label>RecreatiefRoutenetwerk</label>
+            <label>Spoorweg</label>
+            <label>Verkeer</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg022">vsg022</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Intrekgebied</label>
+            <label>Molen</label>
+            <label>Water</label>
+            <label>Waterberging</label>
+            <label>Waterwingebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg024">vsg024</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Waterkering</label>
+            <label>Waterstaatswerk</label>
+            <label>ZuiveringtechnischWerk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg025">vsg025</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>OntwikkelingStedelijkeFuncties</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg026">vsg026</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Wonen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg027">vsg027</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Reserveringsgebied</label>
+            <label>StedelijkGebied</label>
+            <label>Woongebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Bedrijventerrein</label>
+            <label>Bodemenergiegebied</label>
+            <label>Energieproductiegebied</label>
+            <label>Gaswinning</label>
+            <label>GrootschaligeElektriciteitsopwekking</label>
+            <label>Hoogspanningsverbinding</label>
+            <label>Industrie</label>
+            <label>Industrieterrein</label>
+            <label>Moderniseringslocatie</label>
+            <label>Oliewinning</label>
+            <label>Schaliegaswinning</label>
+            <label>ToepassingsgebiedMijnsteen</label>
+            <label>Windturbine</label>
+            <label>ZonneEnergiegebied</label>
+            <label>Zoutwinning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg029">vsg029</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Grondwaterbeschermingsgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg030">vsg030</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Overig</label>
+            <label>Voorschriftengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt019">vsgt019</vlak>
+      <term>Functiegroep</term>
+      <waarden>
+            <label>AandachtsgebiedLuchtkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg009">vsg009</vlak>
+      <term>Geluidgroep</term>
+      <waarden>
+            <label>AandachtsgebiedGeluid</label>
+            <label>AgglomeratieRichtlijnOmgevingslawaai</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag509">vag509</vlak>
+      <term>Geluidgroep</term>
+      <waarden>
+            <label>Stiltegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Geluidgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg002">vsg002</vlak>
+      <term>Geurgroep</term>
+      <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Concentratiegebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Geurgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Idealisatie</term>
+      <waarden>
+            <label>Exact</label>
+            <label>Indicatief</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Instrument</term>
+      <waarden>
+            <label>BesluitGeldelijkeRegelingen</label>
+            <label>BesluitOverGeluidwerendeMaatregelen</label>
+            <label>BesluitTotAanwijzingVanNationaalPark</label>
+            <label>BesluitTotAanwijzingVanNatuurgebied</label>
+            <label>BesluitTotAanwijzingVanZwemlocatie</label>
+            <label>BesluitTotBeperkenOfVerbiedenVanToegangTotNatura2000Gebied</label>
+            <label>BesluitTotBuitenToepassingLatenVanRegels</label>
+            <label>BesluitTotErkenningVanExamen</label>
+            <label>BesluitTotInstellenVanZwemverbodOfGevenNegatiefZwemadvies</label>
+            <label>BesluitTotTreffenVanTijdelijkeBodembeschermingsmaatregelen</label>
+            <label>BesluitTotVaststellingVanBeginEnEindeBadseizoen</label>
+            <label>BesluitTotVaststellingVanGeluidproductieplafondsAlsOmgevingswaarden</label>
+            <label>Calamiteitenplan</label>
+            <label>Legger</label>
+            <label>Maatwerkvoorschrift</label>
+            <label>Monitoringsprogramma</label>
+            <label>Omgevingsplan</label>
+            <label>Omgevingsverordening</label>
+            <label>Peilbesluit</label>
+            <label>PlanWaarvoorPassendeBeoordelingGemaaktMoetWorden</label>
+            <label>Programma</label>
+            <label>Projectbesluit</label>
+            <label>Ruilbesluit</label>
+            <label>Waterschapsverordening</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg016">vsg016</vlak>
+      <term>Landschapgroep</term>
+      <waarden>
+            <label>BijzonderProvinciaalLandschap</label>
+            <label>NationaalLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag216">vag216</vlak>
+      <term>Landschapgroep</term>
+      <waarden>
+            <label>OpenLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag416">vag416</vlak>
+      <term>Landschapgroep</term>
+      <waarden>
+            <label>SpecifiekBenoemdLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Landschapgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg030">vsg030</vlak>
+      <term>Leidinggroep</term>
+      <waarden>
+            <label>Buisleiding</label>
+            <label>Reserveringsgebied</label>
+            <label>TraceHoogspanning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Leidinggroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg029">vsg029</vlak>
+      <term>Luchtgroep</term>
+      <waarden>
+            <label>AandachtsgebiedLuchtkwaliteit</label>
+            <label>LocatieUitgezonderdVanNibm</label>
+            <label>VarendOntgassen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Luchtgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg013">vsg013</vlak>
+      <term>Mijnbouwgroep</term>
+      <waarden>
+            <label>Mergelwinning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <term>Mijnbouwgroep</term>
+      <waarden>
+            <label>Algemeen</label>
+            <label>Gaswinning</label>
+            <label>Oliewinning</label>
+            <label>Schaliegaswinning</label>
+            <label>Zoutwinning</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Mijnbouwgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg016">vsg016</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>BebouwingscontourHoutkap</label>
+            <label>BebouwingscontourJacht</label>
+            <label>BijzonderNationaalNatuurgebied</label>
+            <label>BijzonderProvinciaalNatuurgebied</label>
+            <label>NationaalPark</label>
+            <label>Natura2000Gebied</label>
+            <label>Natuurbeheergebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt002">vsgt002</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>Toegangsbeperkingsgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt114">vsgt114</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>Habitatrichtlijngebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt115">vsgt115</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>NatuurnetwerkNederland</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt123">vsgt123</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>Vogelrichtlijngebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Natuurgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>MaatvoeringBouwen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog001">vog001</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>MaatvoeringInfrastructuur</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog002">vog002</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Geur</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog003">vog003</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Geluid</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog004">vog004</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Bouwaanduiding</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog007">vog007</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Bodem</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog010">vog010</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Groen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog011">vog011</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>ExterneVeiligheid</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog013">vog013</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Bedrijvigheid</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog014">vog014</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>MaatvoeringGebruik</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog016">vog016</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Natuur</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog019">vog019</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Luchtkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog020">vog020</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Waterkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog021">vog021</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Overig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog022">vog022</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Water</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog023">vog023</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Zwemwaterkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog024">vog024</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>VeiligheidWaterkering</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog026">vog026</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Licht</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog028">vog028</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Trilling</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog029">vog029</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Wateroverlast</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog030">vog030</vlak>
+      <term>Omgevingsnormgroep</term>
+      <waarden>
+            <label>Parkeren</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt003">vsgt003</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Geluid</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt019">vsgt019</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Luchtkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt021">vsgt021</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Overig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt022">vsgt022</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>VeiligheidWaterkering</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt023">vsgt023</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Zwemwaterkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt024">vsgt024</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Waterkwaliteit</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt028">vsgt028</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Energie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt029">vsgt029</vlak>
+      <term>Omgevingswaardegroep</term>
+      <waarden>
+            <label>Wateroverlast</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg018">vsg018</vlak>
+      <term>Recreatiegroep</term>
+      <waarden>
+            <label>Verblijfsrecreatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg118">vsg118</vlak>
+      <term>Recreatiegroep</term>
+      <waarden>
+            <label>Dagrecreatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag518">vag518</vlak>
+      <term>Recreatiegroep</term>
+      <waarden>
+            <label>KleinschaligeVoorzieningen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Recreatiegroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg001">vsg001</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Landbouw</label>
+            <label>LandelijkGebied</label>
+            <label>LandelijkGebiedAgrarisch</label>
+            <label>OntwikkelingLandelijkeFuncties</label>
+            <label>SpecifiekTeeltgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg004">vsg004</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>StedelijkGebiedGroenStedelijk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg005">vsg005</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>StedelijkGebiedCentrumDorps</label>
+            <label>StedelijkGebiedCentrumStedelijk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg007">vsg007</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Detailhandel</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg009">vsg009</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Afvalstoffen</label>
+            <label>LandelijkGebiedStedelijkUitloopgebied</label>
+            <label>StedelijkGebiedBuitenCentrum</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg012">vsg012</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Kantoorlocatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg015">vsg015</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>LandelijkGebiedHoofdfunctieLandschap</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg016">vsg016</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>LandelijkGebiedHoofdfunctieNatuur</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg021">vsg021</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Infrastructuur</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg022">vsg022</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Water</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg027">vsg027</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>LandelijkGebiedVerwevingVanFuncties</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Bedrijventerrein</label>
+            <label>Industrieterrein</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg030">vsg030</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Bebouwingscontour</label>
+            <label>Overig</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg101">vsg101</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Glastuinbouw</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt003">vsgt003</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Veehouderij</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt025">vsgt025</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>StedelijkGebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vaz225">vaz225</vlak>
+      <term>RuimtelijkGebruikgroep</term>
+      <waarden>
+            <label>OntwikkelingStedelijkeFuncties</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>Thema</term>
+      <waarden>
+            <label>Bodem</label>
+            <label>Bouwwerken</label>
+            <label>CultureelErfgoed</label>
+            <label>EnergieEnNatuurlijkeHulpbronnen</label>
+            <label>ExterneVeiligheid</label>
+            <label>Geluid</label>
+            <label>Gezondheid</label>
+            <label>Infrastructuur</label>
+            <label>Landgebruik</label>
+            <label>Landschap</label>
+            <label>Lucht</label>
+            <label>MilieuAlgemeen</label>
+            <label>Natuur</label>
+            <label>Procedures</label>
+            <label>WaterEnWatersystemen</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>TypeGebiedsaanwijzing</term>
+      <waarden>
+            <label>Beperkingengebied</label>
+            <label>Bodem</label>
+            <label>Bouw</label>
+            <label>Defensie</label>
+            <label>Energievoorziening</label>
+            <label>Erfgoed</label>
+            <label>ExterneVeiligheid</label>
+            <label>Functie</label>
+            <label>Geluid</label>
+            <label>Geur</label>
+            <label>Landschap</label>
+            <label>Leiding</label>
+            <label>Lucht</label>
+            <label>Mijnbouw</label>
+            <label>Natuur</label>
+            <label>Recreatie</label>
+            <label>RuimtelijkGebruik</label>
+            <label>Verkeer</label>
+            <label>WaterEnWatersysteem</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vog000">vog000</vlak>
+      <term>TypeNorm</term>
+      <waarden>
+            <label>Aaneengebouwd</label>
+            <label>AantalAaneenTeBouwenWoningen</label>
+            <label>AantalAaneenTeBouwenWooneenheden</label>
+            <label>AantalBedrijfswoningen</label>
+            <label>AantalBedrijven</label>
+            <label>AantalBezoekers</label>
+            <label>AantalBouwlagen</label>
+            <label>AantalGebouwen</label>
+            <label>AantalGebouwenMetFunctioneleBinding</label>
+            <label>AantalParkeerplaatsen</label>
+            <label>AantalRijstroken</label>
+            <label>AantalSporen</label>
+            <label>AantalWinkels</label>
+            <label>AantalWoningen</label>
+            <label>AantalWooneenheden</label>
+            <label>Antennemast</label>
+            <label>BebouwdeOppervlakte</label>
+            <label>Bebouwingspercentage</label>
+            <label>Bijgebouwen</label>
+            <label>Bouwhoogte</label>
+            <label>Breedte</label>
+            <label>Dakhelling</label>
+            <label>Diepte</label>
+            <label>Gestapeld</label>
+            <label>Goothoogte</label>
+            <label>Hoogte</label>
+            <label>Kap</label>
+            <label>Karakteristiek</label>
+            <label>Lengte</label>
+            <label>Maatvoering</label>
+            <label>MaximumAantalAaneenTeBouwenWoningen</label>
+            <label>MaximumAantalAaneenTeBouwenWooneenheden</label>
+            <label>MaximumAantalBedrijfswoningen</label>
+            <label>MaximumAantalBedrijven</label>
+            <label>MaximumAantalBezoekers</label>
+            <label>MaximumAantalBouwlagen</label>
+            <label>MaximumAantalGebouwen</label>
+            <label>MaximumAantalGebouwenMetFunctioneleBinding</label>
+            <label>MaximumAantalParkeerplaatsen</label>
+            <label>MaximumAantalRijstroken</label>
+            <label>MaximumAantalSporen</label>
+            <label>MaximumAantalWinkels</label>
+            <label>MaximumAantalWoningen</label>
+            <label>MaximumAantalWooneenheden</label>
+            <label>MaximumBebouwdeOppervlakte</label>
+            <label>MaximumBebouwingspercentage</label>
+            <label>MaximumBouwhoogte</label>
+            <label>MaximumBreedte</label>
+            <label>MaximumDakhelling</label>
+            <label>MaximumDiepte</label>
+            <label>MaximumGoothoogte</label>
+            <label>MaximumHoogte</label>
+            <label>MaximumLengte</label>
+            <label>MaximumOppervlakte</label>
+            <label>MaximumVerticaleBouwdiepte</label>
+            <label>MaximumVloeroppervlakte</label>
+            <label>MaximumVloeroppervlakteBruto</label>
+            <label>MaximumVloeroppervlakteNetto</label>
+            <label>MaximumVolume</label>
+            <label>MinimumAantalAaneenTeBouwenWoningen</label>
+            <label>MinimumAantalAaneenTeBouwenWooneenheden</label>
+            <label>MinimumAantalBedrijfswoningen</label>
+            <label>MinimumAantalBedrijven</label>
+            <label>MinimumAantalBezoekers</label>
+            <label>MinimumAantalBouwlagen</label>
+            <label>MinimumAantalGebouwen</label>
+            <label>MinimumAantalGebouwenMetFunctioneleBinding</label>
+            <label>MinimumAantalParkeerplaatsen</label>
+            <label>MinimumAantalRijstroken</label>
+            <label>MinimumAantalSporen</label>
+            <label>MinimumAantalWinkels</label>
+            <label>MinimumAantalWoningen</label>
+            <label>MinimumAantalWooneenheden</label>
+            <label>MinimumBebouwdeOppervlakte</label>
+            <label>MinimumBebouwingspercentage</label>
+            <label>MinimumBouwhoogte</label>
+            <label>MinimumBreedte</label>
+            <label>MinimumDakhelling</label>
+            <label>MinimumDiepte</label>
+            <label>MinimumGoothoogte</label>
+            <label>MinimumHoogte</label>
+            <label>MinimumLengte</label>
+            <label>MinimumOppervlakte</label>
+            <label>MinimumVerticaleBouwdiepte</label>
+            <label>MinimumVloeroppervlakte</label>
+            <label>MinimumVloeroppervlakteBruto</label>
+            <label>MinimumVloeroppervlakteNetto</label>
+            <label>MinimumVolume</label>
+            <label>NogToeTeVoegen</label>
+            <label>Nokrichting</label>
+            <label>Onderdoorgang</label>
+            <label>Oppervlakte</label>
+            <label>PlatDak</label>
+            <label>TweeAaneen</label>
+            <label>VerticaleBouwdiepte</label>
+            <label>Vloeroppervlakte</label>
+            <label>VloeroppervlakteBruto</label>
+            <label>VloeroppervlakteNetto</label>
+            <label>Volume</label>
+            <label>Vrijstaand</label>
+            <label>Welstandsniveau</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg021">vsg021</vlak>
+      <term>Verkeergroep</term>
+      <waarden>
+            <label>Luchtvaart</label>
+            <label>RecreatieveRoutenetwerken</label>
+            <label>Reserveringsgebied</label>
+            <label>Spoorweg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg023">vsg023</vlak>
+      <term>Verkeergroep</term>
+      <waarden>
+            <label>Vaarweg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg121">vsg121</vlak>
+      <term>Verkeergroep</term>
+      <waarden>
+            <label>Weg</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>Verkeergroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg002">vsg002</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Duingebied</label>
+            <label>Duinwatergebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg021">vsg021</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Onderhoudspad</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg022">vsg022</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Oppervaktewaterbeschermingsgebied</label>
+            <label>Oppervlaktewaterbeheergebied</label>
+            <label>Reserveringsgebied</label>
+            <label>Zwemlocatie</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg023">vsg023</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Bergingsgebied</label>
+            <label>BeschermdeGebieden</label>
+            <label>Natuurbeek</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg024">vsg024</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Compartimentskering</label>
+            <label>Kade</label>
+            <label>Oppervlaktewaterlichaam</label>
+            <label>OppervlaktewaterlichaamPrimair</label>
+            <label>OppervlaktewaterlichaamProfielVanVrijeRuimte</label>
+            <label>OppervlaktewaterlichaamSecundair</label>
+            <label>OppervlaktewaterlichaamTertiair</label>
+            <label>Vaarweg</label>
+            <label>Waterkering</label>
+            <label>WaterkeringOverig</label>
+            <label>WaterkeringPrimair</label>
+            <label>WaterkeringProfielVanVrijeRuimte</label>
+            <label>Waterstaatswerk</label>
+            <label>Watersysteem</label>
+            <label>ZuiveringtechnischWerk</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg027">vsg027</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>SpecifiekBenoemdGebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg028">vsg028</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Kustfundament</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg029">vsg029</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>ContourBeregeningsbeleid</label>
+            <label>Grondwaterdeelgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsg030">vsg030</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>OverigeGebieden</label>
+            <label>Projectgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt122">vsgt122</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Waterwingebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vsgt129">vsgt129</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Waterberging</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag022">vag022</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Grondwaterbeschermingsgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag224">vag224</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Peilgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag322">vag322</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>BoringsvijeZone</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag522">vag522</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Intrekgebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag523">vag523</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>Maatregelengebied</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vag529">vag529</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>GebiedsnormWateroverlast</label>
+         </waarden>
+   </symboolcode>
+   <symboolcode>
+      <vlak id="vah424">vah424</vlak>
+      <term>WaterEnWatersysteemgroep</term>
+      <waarden>
+            <label>WaterkeringRegionaal</label>
+         </waarden>
+   </symboolcode>
+</functiegroepen>

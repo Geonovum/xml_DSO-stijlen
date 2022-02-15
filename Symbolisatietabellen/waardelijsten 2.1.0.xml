@@ -2256,8 +2256,8 @@
             <specialisatie/>
             <symboolcode>
                <lijn id="lsh025">lsh025</lijn>
-               <punt id="pk000">pk000</punt>
-               <vlak id="vog000">vog000</vlak>
+               <punt id="pk025">pk025</punt>
+               <vlak id="voh025">voh025</vlak>
             </symboolcode>
             <geldigheid>
                <startdatum>2021-10-19</startdatum>
