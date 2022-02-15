@@ -5,10 +5,14 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
-    <!-- Folder waar de SLD en de basis svg's in staan -->
-    <xsl:param name="folder" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbolenbibliotheken/SLD'"/>
+    <!-- Folder waar de basis svg's in staan -->
+    <xsl:param name="folder_Symbols" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbols'"/>
+    <!-- Folder waar de SLD in staatn -->
+    <xsl:param name="folder_SLD" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbolenbibliotheken'"/>
+    <!-- Folder waar de kleurenlijst in staat -->
+    <xsl:param name="folder_output" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Tools'"/>
     <!-- Naam van de SLD -->
-    <xsl:param name="SLD" select="'../SLD_Symbolenbibliotheek_STOPTPOD_Puntsymbolen_v1.0.1.sld'"/>
+    <xsl:param name="SLD" select="'SLD_Symbolenbibliotheek_STOPTPOD_Puntsymbolen_v1.2.0.sld'"/>
     <!-- optioneel een specifieke groep fts gebruiken -->
     <xsl:param name="fts" select="''"/>
     <!-- Werking -->
@@ -16,7 +20,7 @@
     <!-- Als er een basis svg is wordt voor elke Rule een svg gemaakt met dezelfde naam en met de opmaak uit die Rule -->
     
     <xsl:template match="/">
-        <xsl:apply-templates select="collection(concat($folder, '?select=', $SLD, ';recurse=yes'))" mode="sld"/>
+        <xsl:apply-templates select="collection(concat($folder_SLD, '?select=', $SLD, ';recurse=yes'))" mode="sld"/>
     </xsl:template>
     <!-- loop door FeatureTypeStyles, de naam komt overeen met de basis svg naam -->
     <xsl:template match="." mode="sld">
@@ -35,7 +39,7 @@
     <xsl:template match="." mode="fts">
         <xsl:variable name="naam" select="./*[local-name()='Name']/text()"/>
         <xsl:variable name="URI" select="concat($naam,'.svg')"/>
-        <xsl:variable name="basis_svg" select="fn:document(concat($folder,'/basis_svg/', $URI))"/>
+        <xsl:variable name="basis_svg" select="fn:document(concat($folder_Symbols,'/basis_svg/', $URI))"/>
         <xsl:if test="$basis_svg">
             <xsl:apply-templates select="./*[local-name()='Rule']" mode="basis_svg">
                 <xsl:with-param name="basis_svg" select="$basis_svg"/>
@@ -47,7 +51,7 @@
     <xsl:template match="." mode="basis_svg">
         <xsl:param name="basis_svg"/>
         <xsl:variable name="naam" select="./*[local-name()='Name']"/>
-        <xsl:variable name="URI" select="concat($folder,'/SVG/',$naam,'.svg')"/>
+        <xsl:variable name="URI" select="concat($folder_output,'/SVG/',$naam,'.svg')"/>
         <xsl:result-document href="{$URI}">
             <xsl:apply-templates select="$basis_svg" mode="svg">
                 <xsl:with-param name="rule" select="."/>

@@ -2,6 +2,7 @@
 echo Punt
 
 setlocal EnableDelayedExpansion
+cd ../Symbols
 
 REM Controleer de locatie van inkscap.com
 REM Verwijder REM voor de uit te voeren soort
@@ -37,5 +38,5 @@ REM FORFILES /p .\svg /m px*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.co
 REM FORFILES /p .\svg /m px*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.com @file -d 96 -y 0 -o %~dp0png_laag\\@fname.png |echo @file laag"
 
 echo Vlak rasters (let op: antialiassing klopt nog niet)
-REM FORFILES /p .\svg /m va*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.com @file -d 288 -y 0 -o -o %~dp0png_hoog\\@fname.png |echo @file hoog"
+REM FORFILES /p .\svg /m va*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.com @file -d 288 -y 0 -o %~dp0png_hoog\\@fname.png |echo @file hoog"
 REM FORFILES /p .\svg /m va*.svg /C "cmd /c C:\Progra~1\Inkscape\bin\inkscape.com @file -d 96 -y 0 -o %~dp0png_laag\\@fname.png |echo @file laag"

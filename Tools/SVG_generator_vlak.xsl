@@ -7,14 +7,18 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
-    <!-- Folder waar de SLD en de basis svg's in staan -->
-    <xsl:param name="folder" select="'file:///F:/DSO/Geonovum/GitHub/xml_xslt/SLD'"/>
+    <!-- Folder waar de basis svg's in staan -->
+    <xsl:param name="folder_Symbols" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbols'"/>
+    <!-- Folder waar de SLD in staatn -->
+    <xsl:param name="folder_SLD" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbolenbibliotheken'"/>
+    <!-- Folder waar de kleurenlijst in staat -->
+    <xsl:param name="folder_kleuren" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Tools'"/>
     <!-- Naam van de SLD -->
-    <xsl:param name="SLD" select="'SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.1.0.sld'"/>
+    <xsl:param name="SLD" select="'SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.2.0.sld'"/>
     <!-- SLD bestand openen -->
-    <xsl:param name="SLD_file" select="collection(concat($folder, '?select=', $SLD, ';recurse=yes'))"/>
+    <xsl:param name="SLD_file" select="collection(concat($folder_SLD, '?select=', $SLD, ';recurse=yes'))"/>
     <!-- Bestand met kleuren openen (tijdelijke oplossing voor de kleuren)-->
-    <xsl:param name="Kleuren" select="collection(concat($folder, '?select=', 'Lijst_kleuren.xml', ';recurse=yes'))"/>
+    <xsl:param name="Kleuren" select="collection(concat($folder_kleuren, '?select=', 'Lijst_kleuren.xml', ';recurse=yes'))"/>
     
     <!-- Werking -->
     <!-- Voor elke unieke OnlineResource uit het SLD bestand wordt op basis van de naam gekeken of er een basis svg is. -->
@@ -39,7 +43,7 @@
     <xsl:template match="." mode="base">
         <!-- eerste 3 tekens van base is gelijk base basis svg -->
         <xsl:variable name="URI" select="concat(fn:substring(.,1,3),'.svg')"/>
-        <xsl:variable name="basis_svg" select="fn:document(concat($folder,'/basis_svg/', $URI))"/>
+        <xsl:variable name="basis_svg" select="fn:document(concat($folder_Symbols,'/basis_svg/', $URI))"/>
         
         <!-- lijst kleuren ophalen -->
         <xsl:variable name="kleur_code" select="$Kleuren/kleuren/kleur"/>
@@ -59,7 +63,7 @@
         <xsl:variable name="basis_naam" select="tokenize(subsequence(reverse(tokenize(fn:base-uri($basis_svg), '/')), 1, 1),'\.')[1]"/>
         
         <xsl:variable name="naam" select="concat($basis_naam,$symbool_code)"/>
-        <xsl:variable name="URI" select="concat($folder,'/SVG/',$naam,'.svg')"/>
+        <xsl:variable name="URI" select="concat($folder_Symbols,'/SVG/',$naam,'.svg')"/>
         <xsl:result-document href="{$URI}">
             <xsl:apply-templates select="$basis_svg" mode="svg">
                 <xsl:with-param name="kleur" select="."/>

@@ -1,0 +1,25 @@
+@import "waardelijst_css_v1.1.1_vlak.css";
+@import "IMRO_SVBP_v1.0.0_vlak.css";
+
+head{display:grid;grid-template-columns:300px 300px 160px 160px 180px;padding:5px;}
+functiegroepen{display:grid;padding:5px;}
+groep{display:grid;grid-template-columns:300px 900px ;}
+term{display:grid;border:1px solid black;text-indent:5px;}
+
+waarden{display:grid;}
+waarde{display:grid;grid-template-columns:300px 180px 180px 180px;border:1px solid black;}
+label{display:grid;margin:5px;text-indent:5px;}
+
+huidig{display:grid;border-left:1px solid black;}
+
+voorstel{display:grid;}
+
+IMRO{display:grid;}
+
+symboolcode{display:grid;grid-template-columns:80px 80px;}
+voorstel symboolcode vlak::before{content:attr(id);}
+IMRO symboolcode vlak::before{content:attr(id);}
+vlak{display:grid;grid-template-columns:100px 80px;font-weight:bold;padding-bottom:5px;text-indent:10px;border-left:1px solid black;}
+vlak:after{display:grid;margin:5px;}
+
+
