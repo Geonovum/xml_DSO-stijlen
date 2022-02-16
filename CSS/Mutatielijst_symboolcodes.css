@@ -1,4 +1,4 @@
-@import "waardelijst_css_v1.1.1_vlak.css";
+@import "waardelijst_css_v1.2.0_vlak.css";
 @import "IMRO_SVBP_v1.0.0_vlak.css";
 
 head{display:grid;grid-template-columns:300px 300px 160px 160px 180px;padding:5px;}
