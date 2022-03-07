@@ -2,8 +2,18 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 48 48">
+    <defs>
+        <filter id="crispify">
+            <feComponentTransfer>
+                <feFuncA type="discrete" tableValues="0 1"/>
+            </feComponentTransfer>
+        </filter>
+    </defs>
     <title>Raster diagonaal links</title>
-    <g id="va304" stroke="#64aa2d" stroke-width="2">
+    <g id="va3"
+      stroke="#64aa2d"
+      stroke-width="2.1"
+      filter="url(#crispify)">
         <path d="M45.879 -0.707 L48.707 2.121"/>
         <path d="M29.879 -0.707 L48.707 18.121"/>
         <path d="M13.879 -0.707 L48.707 34.121"/>

@@ -2,8 +2,15 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 48 48">
+    <defs>
+        <filter id="crispify">
+            <feComponentTransfer>
+                <feFuncA type="discrete" tableValues="0 1"/>
+            </feComponentTransfer>
+        </filter>
+    </defs>
     <title>Raster punten 8</title>
-    <g id="va413" fill="#9b32cd">
+    <g id="va4" fill="#9b32cd" filter="url(#crispify)">
         <circle cx="3" cy="3" r="1"/>
         <circle cx="11" cy="3" r="1"/>
         <circle cx="19" cy="3" r="1"/>

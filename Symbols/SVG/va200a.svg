@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" height="48" width="48">
+   <defs>
+      <filter id="crispify">
+         <feComponentTransfer>
+            <feFuncA type="discrete" tableValues="0 1"/>
+         </feComponentTransfer>
+      </filter>
+   </defs>
+<!--   <style>
+      svg * {
+      filter: url('#crispify');
+      }
+   </style>
+-->   <title>Raster diagonaal rechts</title>
+   <g id="va200"
+      stroke="#000000"
+      stroke-width="1" 
+      filter="url(#crispify)">
+      <path stroke-dasharray="3,13" d="M-1 1 l96 0" />
+      <path stroke-dasharray="3,13" d="M-2 2 l96 0" />
+      <path stroke-dasharray="3,13" d="M-3 3 l96 0" />
+      <path stroke-dasharray="3,13" d="M-4 4 l96 0" />
+      <path stroke-dasharray="3,13" d="M-5 5 l96 0" />
+      <path stroke-dasharray="3,13" d="M-6 6 l96 0" />
+      <path stroke-dasharray="3,13" d="M-7 7 l96 0" />
+      <path stroke-dasharray="3,13" d="M-8 8 l96 0" />
+      <path stroke-dasharray="3,13" d="M-9 9 l96 0" />
+      <path stroke-dasharray="3,13" d="M-10 10 l96 0" />
+      <path stroke-dasharray="3,13" d="M-11 11 l96 0" />
+      <path stroke-dasharray="3,13" d="M-12 12 l96 0" />
+      <path stroke-dasharray="3,13" d="M-13 13 l96 0" />
+      <path stroke-dasharray="3,13" d="M-14 14 l96 0" />
+      <path stroke-dasharray="3,13" d="M-15 15 l96 0" />
+      <path stroke-dasharray="3,13" d="M-16 16 l96 0" />
+      <path stroke-dasharray="3,13" d="M-17 17 l96 0" />
+      <path stroke-dasharray="3,13" d="M-18 18 l96 0" />
+      <path stroke-dasharray="3,13" d="M-19 19 l96 0" />
+      <path stroke-dasharray="3,13" d="M-20 20 l96 0" />
+      <path stroke-dasharray="3,13" d="M-21 21 l96 0" />
+      <path stroke-dasharray="3,13" d="M-22 22 l96 0" />
+      <path stroke-dasharray="3,13" d="M-23 23 l96 0" />
+      <path stroke-dasharray="3,13" d="M-24 24 l96 0" />
+      <path stroke-dasharray="3,13" d="M-25 25 l96 0" />
+      <path stroke-dasharray="3,13" d="M-26 26 l96 0" />
+      <path stroke-dasharray="3,13" d="M-27 27 l96 0" />
+      <path stroke-dasharray="3,13" d="M-28 28 l96 0" />
+      <path stroke-dasharray="3,13" d="M-29 29 l96 0" />
+      <path stroke-dasharray="3,13" d="M-30 30 l96 0" />
+      <path stroke-dasharray="3,13" d="M-31 31 l96 0" />
+      <path stroke-dasharray="3,13" d="M-32 32 l96 0" />
+      <path stroke-dasharray="3,13" d="M-33 33 l96 0" />
+      <path stroke-dasharray="3,13" d="M-34 34 l96 0" />
+      <path stroke-dasharray="3,13" d="M-35 35 l96 0" />
+      <path stroke-dasharray="3,13" d="M-36 36 l96 0" />
+      <path stroke-dasharray="3,13" d="M-37 37 l96 0" />
+      <path stroke-dasharray="3,13" d="M-38 38 l96 0" />
+      <path stroke-dasharray="3,13" d="M-39 39 l96 0" />
+      <path stroke-dasharray="3,13" d="M-40 40 l96 0" />
+      <path stroke-dasharray="3,13" d="M-41 41 l96 0" />
+      <path stroke-dasharray="3,13" d="M-42 42 l96 0" />
+      <path stroke-dasharray="3,13" d="M-43 43 l96 0" />
+      <path stroke-dasharray="3,13" d="M-44 44 l96 0" />
+      <path stroke-dasharray="3,13" d="M-45 45 l96 0" />
+      <path stroke-dasharray="3,13" d="M-46 46 l96 0" />
+      <path stroke-dasharray="3,13" d="M-47 47 l96 0" />
+      <path stroke-dasharray="3,13" d="M-48 48 l96 0" />
+      
+   </g>
+</svg>
