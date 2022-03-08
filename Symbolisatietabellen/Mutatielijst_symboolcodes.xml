@@ -20,7 +20,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag145"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -38,7 +38,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag118"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -56,7 +56,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag122"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -74,7 +74,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag525"/>
+                  <vlak id="vag225"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -92,7 +92,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag237"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -110,7 +110,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag523"/>
+                  <vlak id="vag247"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -128,7 +128,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag500"/>
+                  <vlak id="vag200"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -146,7 +146,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag521"/>
+                  <vlak id="vag221"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -164,7 +164,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag241"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -182,7 +182,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag521"/>
+                  <vlak id="vag254"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -200,7 +200,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag244"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -218,7 +218,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag207"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -236,7 +236,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag521"/>
+                  <vlak id="vag216"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -254,7 +254,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag250"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -272,7 +272,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag246"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -290,7 +290,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag524"/>
+                  <vlak id="vag224"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -308,7 +308,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag414"/>
+                  <vlak id="vag114"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -326,7 +326,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag116"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -344,7 +344,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag100"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -362,7 +362,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag106"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -380,7 +380,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag128"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -398,12 +398,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag134"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Dienstverlening"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -416,7 +416,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag139"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -434,12 +434,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag136"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Dienstverlening"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -452,12 +452,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag147"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Bedrijf"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -470,12 +470,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag132"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Detailhandel"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -488,12 +488,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag111"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Horeca"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -506,12 +506,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag103"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Kantoor"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -524,7 +524,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag135"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -542,7 +542,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag152"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -560,7 +560,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag113"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -578,7 +578,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag122"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -596,7 +596,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag137"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -614,12 +614,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag429"/>
+                  <vlak id="vag144"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -632,12 +632,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag141"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -650,7 +650,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag409"/>
+                  <vlak id="vag109"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -668,7 +668,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag131"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -686,7 +686,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag150"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -704,7 +704,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag102"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -722,7 +722,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag104"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -740,7 +740,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag110"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -758,7 +758,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag129"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -776,7 +776,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag143"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -794,12 +794,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag125"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Maatschappelijk"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -812,7 +812,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag130"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -830,7 +830,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag035"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -848,7 +848,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag036"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -866,7 +866,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag009"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -884,7 +884,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag149"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -902,7 +902,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag108"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -920,12 +920,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag119"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -938,12 +938,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag115"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -956,7 +956,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag142"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -974,7 +974,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag109"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -992,12 +992,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag109"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1010,7 +1010,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag105"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1028,12 +1028,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag112"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Overig"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1046,7 +1046,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag154"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1064,7 +1064,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag123"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1082,7 +1082,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag151"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1100,12 +1100,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag127"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1118,7 +1118,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag117"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1136,7 +1136,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag146"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1154,12 +1154,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag101"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Sport"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1172,7 +1172,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag107"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1190,7 +1190,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag148"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1208,7 +1208,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag145"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1226,7 +1226,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag138"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1244,7 +1244,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag140"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1262,7 +1262,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag137"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1280,12 +1280,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag120"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1298,12 +1298,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag124"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1316,12 +1316,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag121"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1334,7 +1334,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag133"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1352,18 +1352,18 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag126"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Wonen"/>
                </symboolcode>
             </IMRO>
          </waarde>
       </waarden>
    </groep>
-   <groep>
+<!--   <groep>
       <term>Activiteitregelkwalificatie</term>
       <waarden>
          <waarde>
@@ -1511,8 +1511,8 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
-   <groep>
+   </groep>-->
+   <!--   <groep>
       <term>Adressaat</term>
       <waarden>
          <waarde>
@@ -1678,7 +1678,7 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
+   </groep>-->
    <groep>
       <term>Beperkingengebiedgroep</term>
       <waarden>
@@ -1691,12 +1691,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg022"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1709,12 +1709,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg028"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1727,7 +1727,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg006"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1745,12 +1745,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg021"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Overig"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1763,12 +1763,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg015"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1781,12 +1781,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg020"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1799,12 +1799,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vsg014"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -1840,7 +1840,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt007"/>
+                  <vlak id="vszt033"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1876,7 +1876,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt007"/>
+                  <vlak id="vszt031"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1894,7 +1894,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt007"/>
+                  <vlak id="vszt035"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1930,7 +1930,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt007"/>
+                  <vlak id="vszt006"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -1948,7 +1948,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt007"/>
+                  <vlak id="vszt036"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2012,7 +2012,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag023"/>
+                  <vlak id="vsg023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2030,7 +2030,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag014"/>
+                  <vlak id="vsg014"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2048,7 +2048,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag014"/>
+                  <vlak id="vsg047"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2066,7 +2066,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag014"/>
+                  <vlak id="vsg040"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2084,7 +2084,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag014"/>
+                  <vlak id="vsg037"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2095,7 +2095,7 @@
          </waarde>
       </waarden>
    </groep>
-   <groep>
+<!--   <groep>
       <term>Eenheid</term>
       <waarden>
          <waarde>
@@ -2693,7 +2693,7 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
+   </groep>-->
    <groep>
       <term>Energievoorzieninggroep</term>
       <waarden>
@@ -2706,7 +2706,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz028"/>
+                  <vlak id="vsz037"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2724,7 +2724,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz028"/>
+                  <vlak id="vsz014"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2742,7 +2742,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz028"/>
+                  <vlak id="vsz040"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2760,7 +2760,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz028"/>
+                  <vlak id="vsz054"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2778,7 +2778,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz028"/>
+                  <vlak id="vsz028"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2796,7 +2796,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz023"/>
+                  <vlak id="vsz023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2814,7 +2814,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz012"/>
+                  <vlak id="vsz012"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2832,7 +2832,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz026"/>
+                  <vlak id="vsz026"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2855,7 +2855,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt114"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2873,7 +2873,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt137"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2891,7 +2891,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt125"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2909,7 +2909,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt107"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -2945,12 +2945,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt108"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -2963,12 +2963,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt132"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -2981,7 +2981,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt105"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3017,7 +3017,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt106"/>
+                  <vlak id="vsgt134"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3040,7 +3040,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag311"/>
+                  <vlak id="vsg011"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3058,7 +3058,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag311"/>
+                  <vlak id="vsg037"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3076,7 +3076,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag311"/>
+                  <vlak id="vsg009"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3094,7 +3094,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag323"/>
+                  <vlak id="vsg023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3112,7 +3112,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag312"/>
+                  <vlak id="vsg012"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3130,7 +3130,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag311"/>
+                  <vlak id="vsg025"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3148,7 +3148,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag311"/>
+                  <vlak id="vsg035"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3207,7 +3207,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg109"/>
+                  <vlak id="vsg135"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3225,7 +3225,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg119"/>
+                  <vlak id="vsg136"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3261,7 +3261,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg101"/>
+                  <vlak id="vsg104"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3279,7 +3279,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg110"/>
+                  <vlak id="vsg151"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3315,7 +3315,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg119"/>
+                  <vlak id="vsg153"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3356,7 +3356,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Bedrijf"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3374,7 +3374,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Bedrijventerrein"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3387,7 +3387,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg109"/>
+                  <vlak id="vsg111"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3405,7 +3405,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg117"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3423,7 +3423,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg116"/>
+                  <vlak id="vsg129"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3441,7 +3441,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg108"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3459,7 +3459,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg116"/>
+                  <vlak id="vsg152"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3477,7 +3477,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg110"/>
+                  <vlak id="vsg138"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3495,7 +3495,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg110"/>
+                  <vlak id="vsg140"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3513,7 +3513,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg113"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3531,7 +3531,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg107"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3549,12 +3549,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg105"/>
+                  <vlak id="vsg131"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3567,7 +3567,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg102"/>
+                  <vlak id="vsg131"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3585,12 +3585,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg128"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3603,12 +3603,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg129"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3621,12 +3621,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg108"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3639,12 +3639,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg118"/>
+                  <vlak id="vsg152"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3657,12 +3657,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg107"/>
+                  <vlak id="vsg105"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Detailhandel"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3680,7 +3680,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Dienstverlening"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3706,7 +3706,7 @@
             <label>duinwatergebied</label>
             <huidig>
                <symboolcode>
-                  <vlak id="vsg002">vsg002</vlak>
+                  <vlak id="vsg050">vsg002</vlak>
                </symboolcode>
             </huidig>
             <voorstel>
@@ -3716,7 +3716,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3765,7 +3765,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg148"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3783,7 +3783,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg103"/>
+                  <vlak id="vsg143"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3801,7 +3801,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg101"/>
+                  <vlak id="vsg140"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3824,7 +3824,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Groen"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3837,12 +3837,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg129"/>
+                  <vlak id="vsg144"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3855,7 +3855,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg146"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3891,7 +3891,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg145"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3914,7 +3914,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Horeca"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -3945,7 +3945,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg103"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3963,7 +3963,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg123"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -3981,7 +3981,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg122"/>
+                  <vlak id="vsg148"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4017,12 +4017,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg112"/>
+                  <vlak id="vsg145"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Kantoor"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4053,7 +4053,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg101"/>
+                  <vlak id="vsg116"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4071,12 +4071,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg141"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4089,7 +4089,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg144"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4112,7 +4112,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Maatschappelijk"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4125,7 +4125,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg113"/>
+                  <vlak id="vsg146"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4161,7 +4161,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg114"/>
+                  <vlak id="vsg137"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4179,7 +4179,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg138"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4215,7 +4215,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg149"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4233,7 +4233,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg107"/>
+                  <vlak id="vsg132"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4256,7 +4256,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Cultuur en ontspanning"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4269,7 +4269,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg101"/>
+                  <vlak id="vsg152"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4305,7 +4305,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg101"/>
+                  <vlak id="vsg102"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4323,7 +4323,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg107"/>
+                  <vlak id="vsg145"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4341,7 +4341,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg147"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4377,7 +4377,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg114"/>
+                  <vlak id="vsg112"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4395,12 +4395,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg118"/>
+                  <vlak id="vsg127"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4418,7 +4418,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4431,7 +4431,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg127"/>
+                  <vlak id="vsg139"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4449,7 +4449,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg111"/>
+                  <vlak id="vsg136"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4467,7 +4467,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg113"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4485,12 +4485,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg123"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4503,12 +4503,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg119"/>
+                  <vlak id="vsg101"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Sport"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4521,7 +4521,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg127"/>
+                  <vlak id="vsg125"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4539,7 +4539,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg109"/>
+                  <vlak id="vsg132"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4557,12 +4557,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg105"/>
+                  <vlak id="vsg133"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4575,12 +4575,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg105"/>
+                  <vlak id="vsg131"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4593,12 +4593,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg104"/>
+                  <vlak id="vsg107"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Groen"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4611,7 +4611,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg109"/>
+                  <vlak id="vsg105"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4647,7 +4647,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg103"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4665,7 +4665,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg109"/>
+                  <vlak id="vsg135"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4683,7 +4683,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg103"/>
+                  <vlak id="vsg139"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4701,7 +4701,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg117"/>
+                  <vlak id="vsg134"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4724,7 +4724,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4737,12 +4737,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg121"/>
+                  <vlak id="vsg154"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4791,7 +4791,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg117"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4809,7 +4809,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg122"/>
+                  <vlak id="vsg120"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4832,7 +4832,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4863,12 +4863,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg124"/>
+                  <vlak id="vsg141"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4881,12 +4881,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg122"/>
+                  <vlak id="vsg142"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4899,7 +4899,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg106"/>
+                  <vlak id="vsg133"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4917,7 +4917,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg148"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4940,7 +4940,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Wonen"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4958,7 +4958,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Woongebied"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -4971,7 +4971,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg107"/>
+                  <vlak id="vsg137"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -4989,7 +4989,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg128"/>
+                  <vlak id="vsg126"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5025,7 +5025,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg124"/>
+                  <vlak id="vsg143"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5048,7 +5048,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah109"/>
+                  <vlak id="vsh111"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5066,7 +5066,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah109"/>
+                  <vlak id="vsh109"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5084,7 +5084,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah123"/>
+                  <vlak id="vsh123"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5102,7 +5102,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah109"/>
+                  <vlak id="vsh135"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5143,7 +5143,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt002"/>
+                  <vlak id="vsgt018"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5172,7 +5172,7 @@
          </waarde>
       </waarden>
    </groep>
-   <groep>
+<!--   <groep>
       <term>Idealisatie</term>
       <waarden>
          <waarde>
@@ -5213,7 +5213,8 @@
          </waarde>
       </waarden>
    </groep>
-   <groep>
+-->
+<!--   <groep>
       <term>Instrument</term>
       <waarden>
          <waarde>
@@ -5649,7 +5650,7 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
+   </groep>-->
    <groep>
       <term>Landschapgroep</term>
       <waarden>
@@ -5662,7 +5663,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag316"/>
+                  <vlak id="vsg004"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5680,7 +5681,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag323"/>
+                  <vlak id="vsg023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5698,7 +5699,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag316"/>
+                  <vlak id="vsg019"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5716,7 +5717,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag316"/>
+                  <vlak id="vsg040"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5734,7 +5735,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag316"/>
+                  <vlak id="vsg016"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5757,7 +5758,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz130"/>
+                  <vlak id="vsg054"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5775,7 +5776,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz123"/>
+                  <vlak id="vsg023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5793,7 +5794,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz130"/>
+                  <vlak id="vsg030"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5811,7 +5812,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz130"/>
+                  <vlak id="vsg001"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5834,7 +5835,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz129"/>
+                  <vlak id="vsgt012"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5852,7 +5853,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz129"/>
+                  <vlak id="vsgt029"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5870,7 +5871,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz123"/>
+                  <vlak id="vsgt023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5888,7 +5889,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vaz129"/>
+                  <vlak id="vsgt028"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5911,7 +5912,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah028"/>
+                  <vlak id="vsh028"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5929,7 +5930,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah028"/>
+                  <vlak id="vsh029"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5947,7 +5948,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah023"/>
+                  <vlak id="vsh023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5965,7 +5966,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah013"/>
+                  <vlak id="vsh013"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -5983,7 +5984,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah028"/>
+                  <vlak id="vsh003"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6001,7 +6002,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah028"/>
+                  <vlak id="vsh012"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6019,7 +6020,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vah028"/>
+                  <vlak id="vsh030"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6042,12 +6043,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt139"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6060,7 +6061,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt138"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6078,12 +6079,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt119"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6096,12 +6097,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt110"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6168,12 +6169,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt151"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6186,12 +6187,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt116"/>
+                  <vlak id="vsgt118"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6209,7 +6210,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6240,7 +6241,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsgt123"/>
+                  <vlak id="vsgt149"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6376,7 +6377,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Groen"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6484,7 +6485,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6556,7 +6557,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6574,7 +6575,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6592,7 +6593,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6610,7 +6611,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6628,7 +6629,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6646,7 +6647,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag428"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6664,7 +6665,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag403"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6682,7 +6683,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag419"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6700,7 +6701,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag421"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6718,12 +6719,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag422"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6736,12 +6737,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag424"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6754,12 +6755,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag429"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6772,12 +6773,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="vag423"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6795,12 +6796,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag118"/>
+                  <vlak id="vsgt018"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6813,7 +6814,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag118"/>
+                  <vlak id="vsgt016"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6831,7 +6832,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag123"/>
+                  <vlak id="vsgt023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6849,12 +6850,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag118"/>
+                  <vlak id="vsgt019"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6890,7 +6891,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg030"/>
+                  <vlak id="vsg054"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -6913,7 +6914,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Bedrijventerrein"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6931,7 +6932,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Detailhandel"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -6962,7 +6963,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg028"/>
+                  <vlak id="vsg003"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7003,7 +7004,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Kantoor"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7016,7 +7017,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg001"/>
+                  <vlak id="vsg040"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7034,7 +7035,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg001"/>
+                  <vlak id="vsg002"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7052,12 +7053,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg001"/>
+                  <vlak id="vsg018"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Agrarisch"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7093,7 +7094,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7106,7 +7107,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg009"/>
+                  <vlak id="vsg011"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7160,7 +7161,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg001"/>
+                  <vlak id="vsg019"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7178,7 +7179,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg025"/>
+                  <vlak id="vsg033"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7214,7 +7215,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg001"/>
+                  <vlak id="vsg010"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7250,12 +7251,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg009"/>
+                  <vlak id="vsg035"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7273,7 +7274,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7286,12 +7287,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg005"/>
+                  <vlak id="vsg008"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Centrum"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7309,7 +7310,7 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Groen"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -7322,7 +7323,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vsg003"/>
+                  <vlak id="vsg013"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -7345,13 +7346,13 @@
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Water"/>
                </symboolcode>
             </IMRO>
          </waarde>
       </waarden>
    </groep>
-   <groep>
+<!--   <groep>
       <term>Thema</term>
       <waarden>
          <waarde>
@@ -7625,8 +7626,8 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
-   <groep>
+   </groep>-->
+<!--   <groep>
       <term>TypeGebiedsaanwijzing</term>
       <waarden>
          <waarde>
@@ -7972,8 +7973,8 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
-   <groep>
+   </groep>-->
+<!--   <groep>
       <term>TypeNorm</term>
       <waarden>
          <waarde>
@@ -9795,7 +9796,7 @@
             </IMRO>
          </waarde>
       </waarden>
-   </groep>
+   </groep>-->
    <groep>
       <term>Verkeergroep</term>
       <waarden>
@@ -9808,7 +9809,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag121"/>
+                  <vlak id="vsg044"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9826,7 +9827,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag123"/>
+                  <vlak id="vsg023"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9844,12 +9845,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag121"/>
+                  <vlak id="vsg030"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Recreatie"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -9862,7 +9863,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag121"/>
+                  <vlak id="vsg047"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9880,12 +9881,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag121"/>
+                  <vlak id="vsg021"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -9898,12 +9899,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag123"/>
+                  <vlak id="vsg046"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -9916,12 +9917,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vag121"/>
+                  <vlak id="vsg154"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -9939,7 +9940,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt023"/>
+                  <vlak id="vszt036"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9957,7 +9958,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt023"/>
+                  <vlak id="vszt015"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9975,7 +9976,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt028"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -9993,7 +9994,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt007"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10011,7 +10012,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt029"/>
+                  <vlak id="vszt003"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10029,7 +10030,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt002"/>
+                  <vlak id="vszt014"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10047,7 +10048,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt002"/>
+                  <vlak id="vszt010"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10065,7 +10066,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt029"/>
+                  <vlak id="vszt027"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10083,7 +10084,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt012"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10101,7 +10102,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt029"/>
+                  <vlak id="vszt030"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10119,7 +10120,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt029"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10137,7 +10138,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt017"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10155,7 +10156,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt028"/>
+                  <vlak id="vszt006"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10191,12 +10192,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt023"/>
+                  <vlak id="vszt019"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Natuur"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -10209,7 +10210,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt021"/>
+                  <vlak id="vszt001"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10227,7 +10228,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt041"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10245,7 +10246,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt044"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10281,7 +10282,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt020"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10299,7 +10300,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt043"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10317,7 +10318,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt042"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10335,7 +10336,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt022"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10353,7 +10354,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt030"/>
+                  <vlak id="vszt054"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10371,7 +10372,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt047"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10389,7 +10390,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt030"/>
+                  <vlak id="vszt040"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10407,7 +10408,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt037"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10425,7 +10426,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt027"/>
+                  <vlak id="vszt038"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10443,12 +10444,12 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt013"/>
                </symboolcode>
             </voorstel>
             <IMRO>
                <symboolcode>
-                  <vlak id=""/>
+                  <vlak id="Verkeer"/>
                </symboolcode>
             </IMRO>
          </waarde>
@@ -10461,7 +10462,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt029"/>
+                  <vlak id="vszt026"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10479,7 +10480,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt011"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10497,7 +10498,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt005"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10515,7 +10516,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt009"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10533,7 +10534,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt035"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10551,7 +10552,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt008"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10569,7 +10570,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt046"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10587,7 +10588,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt045"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10605,7 +10606,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt049"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10623,7 +10624,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt024"/>
+                  <vlak id="vszt018"/>
                </symboolcode>
             </voorstel>
             <IMRO>
@@ -10641,7 +10642,7 @@
             </huidig>
             <voorstel>
                <symboolcode>
-                  <vlak id="vszt022"/>
+                  <vlak id="vszt048"/>
                </symboolcode>
             </voorstel>
             <IMRO>

@@ -7,7 +7,7 @@
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
     <!-- Folder waar de basis svg's in staan -->
     <xsl:param name="folder_Symbols" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbols'"/>
-    <!-- Folder waar de SLD in staatn -->
+    <!-- Folder waar de SLD in staat -->
     <xsl:param name="folder_SLD" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Symbolenbibliotheken'"/>
     <!-- Folder waar de kleurenlijst in staat -->
     <xsl:param name="folder_output" select="'file:///F:/DSO/Geonovum/GitHub/xml_DSO-stijlen/Tools'"/>
@@ -68,7 +68,7 @@
         </xsl:copy>
     </xsl:template>
     <!--  -->
-    <xsl:template match="@id" mode="svg">
+    <xsl:template match="g/@id" mode="svg">
         <xsl:param name="rule"/>
         <xsl:attribute name="id"><xsl:value-of select="$rule/*[local-name()='Name']/text()"/></xsl:attribute>
     </xsl:template>

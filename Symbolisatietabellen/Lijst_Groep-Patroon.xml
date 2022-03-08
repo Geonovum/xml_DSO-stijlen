@@ -7,14 +7,21 @@
             <subgroep>
                 <naam>beperkingengebied</naam>
                 <symboolcode>
-                    <vlak id="vag500">vag500</vlak>
+                    <vlak id="vag200">vag200</vlak>
+                </symboolcode>
+                <opmerking></opmerking>
+            </subgroep>
+            <subgroep>
+                <naam>milieu</naam>
+                <symboolcode>
+                    <vlak id="vag000">vag000</vlak>
                 </symboolcode>
                 <opmerking></opmerking>
             </subgroep>
             <subgroep>
                 <naam>overig</naam>
                 <symboolcode>
-                    <vlak id="vag400">vag400</vlak>
+                    <vlak id="vag100">vag100</vlak>
                 </symboolcode>
                 <opmerking></opmerking>
             </subgroep>
@@ -26,7 +33,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag200">vag200</vlak>
+                    <vlak id="vsg001">vsg001</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -62,7 +69,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag000">vag000</vlak>
+                    <vlak id="vsg001">vsg001</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -74,7 +81,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vaz000">vaz000</vlak>
+                    <vlak id="vsz001">vsz001</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -98,7 +105,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag300">vag300</vlak>
+                    <vlak id="vsg011">vsg011</vlak>
                 </symboolcode>
                 <opmerking>roze tinten</opmerking>
             </subgroep>
@@ -122,7 +129,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vah100">vah100</vlak>
+                    <vlak id="vsh111">vsh111</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -146,7 +153,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag304">vag304</vlak>
+                    <vlak id="vsg004">vsg004</vlak>
                 </symboolcode>
                 <opmerking>groen</opmerking>
             </subgroep>
@@ -158,7 +165,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vaz103">vaz103</vlak>
+                    <vlak id="vsg054">vsg054</vlak>
                 </symboolcode>
                 <opmerking>grijs-paars</opmerking>
             </subgroep>
@@ -170,9 +177,9 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vaz120">vaz120</vlak>
+                    <vlak id="vsgt012">vsgt012</vlak>
                 </symboolcode>
-                <opmerking>blauw</opmerking>
+                <opmerking/>
             </subgroep>
         </subgroepen>
     </functiegroep>
@@ -182,7 +189,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vah000">vah000</vlak>
+                    <vlak id="vsh028">vsh028</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -194,7 +201,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vsgt102">vsgt102</vlak>
+                    <vlak id="vsgt139">vsgt139</vlak>
                 </symboolcode>
                 <opmerking>groen-bruin</opmerking>
             </subgroep>
@@ -206,9 +213,9 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vsgt200">vsgt200</vlak>
+                    <vlak id="vog000">vog000</vlak>
                 </symboolcode>
-                <opmerking>Uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
+                <opmerking>Invulling uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
             </subgroep>
         </subgroepen>
     </functiegroep>
@@ -218,9 +225,9 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vsgt200">vsgt200</vlak>
+                    <vlak id="vag400">vag400</vlak>
                 </symboolcode>
-                <opmerking>Uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
+                <opmerking>Invulling uit kleuroverganslijst vsgt2-6 + nieuwe</opmerking>
             </subgroep>
         </subgroepen>
     </functiegroep>
@@ -230,7 +237,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag104">vag104</vlak>
+                    <vlak id="vsgt018">vsgt018</vlak>
                 </symboolcode>
                 <opmerking>groen</opmerking>
             </subgroep>
@@ -242,7 +249,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vsg001">vsg001</vlak>
+                    <vlak id="vsg009">vsg009</vlak>
                 </symboolcode>
                 <opmerking/>
             </subgroep>
@@ -254,7 +261,7 @@
             <subgroep>
                 <naam/>
                 <symboolcode>
-                    <vlak id="vag100">vag100</vlak>
+                    <vlak id="vsg044">vsg044</vlak>
                 </symboolcode>
                 <opmerking>geen groen</opmerking>
             </subgroep>

@@ -83,7 +83,7 @@
         </xsl:copy>
     </xsl:template>
     <!--  -->
-    <xsl:template match="@id" mode="svg">
+    <xsl:template match="g/@id" mode="svg">
         <xsl:param name="kleur"/>
         <xsl:param name="naam"/>
         <xsl:attribute name="id">
