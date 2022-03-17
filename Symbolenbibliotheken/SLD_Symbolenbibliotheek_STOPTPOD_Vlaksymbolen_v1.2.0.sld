@@ -21,7 +21,7 @@
                 <se:Title>Vlaksymbolen</se:Title>
             </se:Description>
             <se:FeatureTypeStyle>
-                <se:Name>vsg</se:Name>
+                <se:Name>vsg0</se:Name>
                 <se:Description>
                     <se:Title>Volledige vlakvulling gesloten zwarte lijn</se:Title>
                 </se:Description>
