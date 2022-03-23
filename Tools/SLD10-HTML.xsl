@@ -28,7 +28,6 @@
         <xd:desc>Loop alle FeatureTypeStyles </xd:desc>
     </xd:doc>
     <xsl:template match="/">
-        <xsl:text>&lt;!DOCTYPE html&gt;</xsl:text>
         <xsl:element name="html">
             <xsl:element name="head">
                 <xsl:element name="link">
@@ -154,7 +153,7 @@
     <xd:doc>
         <xd:desc>Vlakken</xd:desc>
     </xd:doc>
-    <xsl:template match=".[fn:substring(*[local-name() = 'Name']/text(), 1, 1)='v']" mode="symbol">
+    <xsl:template match=".[fn:substring(*[local-name() = 'Name']/text(), 1, 1) = 'v' or fn:substring(*[local-name() = 'Name']/text(), 1, 1) = 'n']" mode="symbol">
         <xsl:element name="td">
             <xsl:attribute name="class">rule_cap_col</xsl:attribute>
             <xsl:element name="table">
