@@ -1,0 +1,37 @@
+@import "symboolcodes_vlak_v1.2.0.css";
+@import "symboolcodes_lijn_v1.2.0.css";
+@import "symboolcodes_punt_v1.2.0.css";
+@import "IMRO_SVBP_v1.0.0_vlak.css";
+
+head{display:grid;grid-template-columns:220px 300px 160px 480px 260px;padding:5px;}
+functiegroepen{display:grid;padding:5px;}
+groep{display:grid;grid-template-columns:220px 1200px ;}
+term{display:grid;border:1px solid black;text-indent:5px;}
+
+waarden{display:grid;}
+waarde{display:grid;grid-template-columns:300px 160px 480px 260px;border:1px solid black;}
+label{display:grid;margin:5px;text-indent:5px;}
+
+huidig{display:grid;border-left:1px solid black;}
+
+voorstel{display:grid;}
+
+IMRO{display:grid;}
+
+symboolcode{display:grid;grid-template-columns:80px 80px;}
+voorstel symboolcode{display:grid;grid-template-columns:160px 160px 160px;}
+huidig symboolcode vlak{grid-template-columns:80px 80px;}
+voorstel symboolcode vlak{grid-template-columns:80px 80px;}
+voorstel symboolcode vlak::before{content:attr(id);grid-template-columns:80px 80px;}
+/*voorstel symboolcode lijn::before{content:attr(id);}
+voorstel symboolcode punt::before{content:attr(id);}*/
+IMRO symboolcode vlak::before{content:attr(id);}
+IMRO symboolcode vlak{grid-template-columns:180px 80px;}
+vlak{display:grid;grid-template-columns:100px 80px;font-weight:bold;padding-bottom:5px;text-indent:10px;border-left:1px solid black;}
+vlak:after{display:grid;margin:5px;}
+lijn{display:grid;grid-template-columns:80px 80px;font-weight:bold;padding-bottom:5px;text-indent:10px;border-left:1px solid black;}
+lijn::after{display:grid;margin:5px;}
+punt{display:grid;grid-template-columns:80px 80px;font-weight:bold;padding-bottom:5px;text-indent:10px;border-left:1px solid black;}
+punt:after{display:grid;margin:5px;background-position:center;background-repeat:no-repeat;background-size:24px;}
+
+

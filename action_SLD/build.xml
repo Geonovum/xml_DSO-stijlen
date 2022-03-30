@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="sld-html" default="sld2html">
+    <taskdef resource="net/sf/antcontrib/antlib.xml"/>
+    
+    <!-- properties voor de transformatie -->
+    <property name="input.dir" value="input"/>
+    <property name="media.dir" value="media"/>
+    <property name="output.dir" value="output"/>
+    
+    <!-- initialiseer mappen -->
+    <target name="init" description="Initialiseer mappen">
+        <delete failonerror="no" includeemptydirs="true">
+            <fileset dir="${output.dir}"/>
+        </delete>
+        <mkdir dir="${output.dir}"/>
+        <copy todir="${output.dir}/media" failonerror="false">
+            <fileset dir="${input.dir}/${media.dir}"/>
+        </copy>
+    </target>
+    
+    <target name="html" description="Transformeer van xml naar html">
+        <xslt in="${input.dir}/SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.2.0.sld" out="${output.dir}/SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.2.0.html" style="SLD-HTML_v2.0.0.xsl" processor="trax" force="true"/>
+    </target>
+    
+    <target name="sld2html" depends="init,html"/>
+    
+</project>
