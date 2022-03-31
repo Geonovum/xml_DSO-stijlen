@@ -6,7 +6,6 @@
     <property name="input.dir" value="input"/>
     <property name="media.dir" value="media"/>
     <property name="output.dir" value="output"/>
-    <property name="file.sld">${dir.build}/MyProject-${version}.jar</property>
     
     <!-- initialiseer mappen -->
     <target name="init" description="Initialiseer mappen">
@@ -23,6 +22,14 @@
         <xslt basedir="${input.dir}" destdir="${output.dir}" style="SLD-HTML_v2.0.0.xsl" processor="trax" force="true"/>
     </target>
     
-    <target name="sld2html" depends="init,html"/>
+    <target name="kopie" description="Kopieer resultaat">
+        <copy todir="Symbolenbibliotheken">
+            <fileset dir="output">
+                <include name="*.html"/>
+            </fileset>
+        </copy>
+    </target>
+    
+    <target name="sld2html" depends="init,html,kopie"/>
     
 </project>
