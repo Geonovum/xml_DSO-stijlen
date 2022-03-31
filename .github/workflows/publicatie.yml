@@ -3,7 +3,7 @@ name: push output
 on:
   push:
     paths:
-    - 'input/**.sld'
+    - 'action_SLD/input/**.sld'
 
 jobs:
   build:
