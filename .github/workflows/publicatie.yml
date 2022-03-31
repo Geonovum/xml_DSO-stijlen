@@ -21,8 +21,11 @@ jobs:
     - name: Build with Ant
       run: ant -noinput -buildfile build.xml -lib ./lib/
     - name: Commit & Push changes
-      uses: actions-js/push@v1.1
-
+      run: |
+        git add *.html
+        git commit -m "nieuwe html commit"
+        git push origin master
+      
     # - name: Get repository
       # id: get_repository
       # uses: mavrosxristoforos/get-xml-info@1.0
