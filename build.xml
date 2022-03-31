@@ -6,6 +6,7 @@
     <property name="input.dir" value="input"/>
     <property name="media.dir" value="media"/>
     <property name="output.dir" value="output"/>
+    <property name="file.sld">${dir.build}/MyProject-${version}.jar</property>
     
     <!-- initialiseer mappen -->
     <target name="init" description="Initialiseer mappen">
@@ -14,12 +15,12 @@
         </delete>
         <mkdir dir="${output.dir}"/>
         <copy todir="${output.dir}/media" failonerror="false">
-            <fileset dir="${input.dir}/${media.dir}"/>
+            <fileset dir="${media.dir}"/>
         </copy>
     </target>
     
     <target name="html" description="Transformeer van xml naar html">
-        <xslt in="${input.dir}/SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.2.0.sld" out="${output.dir}/SLD_Symbolenbibliotheek_STOPTPOD_Vlaksymbolen_v1.2.0.html" style="SLD-HTML_v2.0.0.xsl" processor="trax" force="true"/>
+        <xslt basedir="${input.dir}" destdir="${output.dir}" style="SLD-HTML_v2.0.0.xsl" processor="trax" force="true"/>
     </target>
     
     <target name="sld2html" depends="init,html"/>
