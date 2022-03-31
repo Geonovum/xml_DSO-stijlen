@@ -26,7 +26,7 @@ jobs:
         git config user.email "<>"
     - name: Commit & Push changes
       run: |
-        git add *.html
+        git add Symbolenbibliotheken/*.html
         git commit -m "nieuwe html commit"
         git push origin master
       
