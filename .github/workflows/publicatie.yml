@@ -20,6 +20,9 @@ jobs:
         java-version: 1.8
     - name: Build with Ant
       run: ant -noinput -buildfile build.xml -lib ./lib/
+    - name: setup git config
+      run:  git config user.name "GitHub Actions Bot"
+            git config user.email "<>"
     - name: Commit & Push changes
       run: |
         git add *.html
