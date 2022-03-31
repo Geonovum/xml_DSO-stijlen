@@ -14,6 +14,12 @@ als symbolisatietabellen
 
 \- van SLD naar json voor de legenda in de viewer
 
+Symbolisatietabellen
+====================
+
+De xml output van de waardelijsten voorzien van een stylesheet voor een leesbare
+weergave in de browser
+
 SVG’s en PNG’s
 --------------
 
