@@ -22,12 +22,15 @@
         <xslt basedir="${input.dir}" destdir="${output.dir}" style="SLD-HTML_v2.0.0.xsl" processor="trax" force="true"/>
     </target>
     
-    <target name="kopie" description="Kopieer resultaat">
+    <target name="kopie" description="Kopieer resultaat en verwijder output">
         <copy todir="Symbolenbibliotheken">
             <fileset dir="output">
                 <include name="*.html"/>
             </fileset>
         </copy>
+        <delete failonerror="no" includeemptydirs="true">
+            <fileset dir="${output.dir}"/>
+        </delete>
     </target>
     
     <target name="sld2html" depends="init,html,kopie"/>
