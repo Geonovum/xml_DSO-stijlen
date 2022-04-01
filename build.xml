@@ -13,9 +13,9 @@
             <fileset dir="${output.dir}"/>
         </delete>
         <mkdir dir="${output.dir}"/>
-        <copy todir="${output.dir}/media" failonerror="false">
+<!--        <copy todir="${output.dir}/media" failonerror="false">
             <fileset dir="${media.dir}"/>
-        </copy>
+        </copy>-->
     </target>
     
     <target name="html" description="Transformeer van xml naar html">
