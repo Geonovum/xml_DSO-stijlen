@@ -20,13 +20,18 @@ jobs:
         java-version: 1.8
     - name: Build with Ant
       run: ant -noinput -buildfile build.xml -lib ./lib/
-    - name: setup git config
-      run:  |
-        git config user.name "KasperLingbeek"
-        git config user.email "<k.lingbeek@geonovum.nl>"
     - name: Commit & Push changes
-      run: |
-        git add Symbolenbibliotheken/*.html
-        git commit -m "nieuwe html commit"
-        git push origin main
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        
+    # - name: setup git config
+      # run:  |
+        # git config user.name "KasperLingbeek"
+        # git config user.email "<k.lingbeek@geonovum.nl>"
+    # - name: Commit & Push changes
+      # run: |
+        # git add Symbolenbibliotheken/*.html
+        # git commit -m "nieuwe html commit"
+        # git push origin main
       
