@@ -24,7 +24,7 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        
+        directory: 'Symbolenbibliotheken/*'
     # - name: setup git config
       # run:  |
         # git config user.name "KasperLingbeek"
