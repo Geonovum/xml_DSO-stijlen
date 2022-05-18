@@ -30,7 +30,7 @@
                     <xsl:attribute name="rel">stylesheet</xsl:attribute>
                     <xsl:attribute name="type">text/css</xsl:attribute>
                     <xsl:attribute name="href">
-                        <xsl:value-of select="concat($CSSpath, 'SLD.css')"/>
+                        <xsl:value-of select="concat($CSSpath, 'HTML-SLD_v1.0.0.css')"/>
                     </xsl:attribute>
                 </xsl:element>
                 <xsl:element name="style"><![CDATA[
