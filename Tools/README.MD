@@ -6,27 +6,31 @@ Symbol in QGIS maken van code
 
 \- Layer_from_symbollayer_file.py
 
-Om puntsymbolen die in de symbolenbibliotheek van het DSO zijn gebruikt voor de
-viewer als png’s op een spritemap moet de definitie voor die symbolen zoals die
-in de code van QGIS opgeslagen ligt omgezet worden in een polygoon.
-
-Deze kan daarna als svg opgeslagen worden.
+De puntsymbolen zijn in de SLD als WellKnownNames benoemd. Voor de viewer moeten
+deze symbolen als png’s in een spritemap gezet worden. De definitie achter de
+WellKnownName is in de code van QGIS opgeslagen. Met dit pythinscript kunnen de
+symbolen als polygoon neergezet worden waarna ze als svg opgeslagen kunnen
+worden.
 
 Van SLD een html maken (symbolenbibliotheek)
 --------------------------------------------
 
 \- SLD10-HTML.xsl
 
+De SLD is in XML formaat welke moeilijk te interpreteren is zonder extra
+software. Deze transformatie maakt van een SLD een HTML pagina met de juiste
+kleuren en patronen om de stijl die bij een symboolcode hoort te kunnen zien.
+
 Van SLD een stylesheet maken voor de waardelijst (symbolisatietabellen)
 -----------------------------------------------------------------------
 
 \- SLD10-Waardelijst_CSS.xslt
 
-Naar de CSS die met deze transformatie wordt gemaakt kan in waardelijst naar
-verwezen worden.
-
-Als deze waardelijst in Google Chrome geopend wordt dan worden de symbolen bij
-de groepen die een symboolcode hebben getoond in de juiste kleuren en vorm.
+De IMOW waardelijst wordt in een aantal formaten beschikbaar gesteld, geen van
+deze formaten geven de kleuren en patronen weer van de symboolcodes die bij de
+items in de lijst staan. Deze tool maakt een CSS en door in de XML versie van de
+waardelijst een verwijzing naar deze CSS op te nemen en te openen in een browser
+worden bij de symboolcodes de kleuren en patronen weergegeven.
 
 Van svg’s png’s maken
 ---------------------

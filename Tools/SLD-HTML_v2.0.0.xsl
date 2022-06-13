@@ -4,7 +4,7 @@
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     xmlns:xlink="http://www.w3.org/1999/xlink" exclude-result-prefixes="xs xd math" version="2.0">
-    <xsl:output method="html" encoding="UTF-8" indent="yes" doctype-system="about:legacy-compat"/>
+    <xsl:output method="html" media-type="text/html" encoding="UTF-8" indent="yes" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
 
     <!-- relative path to the location of the symbols  -->
     <xsl:param name="symbolpath" select="'./symbols/'"/>
@@ -26,38 +26,34 @@
     <xsl:template match="/">
         <xsl:element name="html">
             <xsl:element name="head">
-                <xsl:element name="link">
-                    <xsl:attribute name="rel">stylesheet</xsl:attribute>
-                    <xsl:attribute name="type">text/css</xsl:attribute>
-                    <xsl:attribute name="href">
-                        <xsl:value-of select="concat($CSSpath, 'HTML-SLD_v1.0.0.css')"/>
-                    </xsl:attribute>
-                </xsl:element>
-                <xsl:element name="style"><![CDATA[
-                    .div_grid{
-                        display:grid;
-                        grid-template-columns: 460px repeat(54, 99px);
-                        border-left: 2px solid black;
-                        border-right: 2px solid black;
-                        font-weight:bold;
-                        font-size:14px;
-                    }
-                    .div_title{
-                        grid-column-start: 1;
-                        grid-column-end: 1;
-                        border-bottom: 1px solid black;
-                        padding-left:5px;
-                        padding-top:5px;
-                    }
-                    .div_cell{
-                        border-bottom: 1px solid black;
-                        border-left:2px solid black;
-                        padding-left:5px;
-                        padding-top:5px;
-                        font-weight:normal;
-                        text-align:center;
-                    }]]>
-                </xsl:element>
+                <xsl:element name="title">Symbolenbibliotheek</xsl:element>
+                <xsl:element name="style">
+        body {
+            font-family: Arial;
+        }
+        .div_grid{
+            display:grid;
+            grid-template-columns: 460px repeat(54,99px);
+            border-left: 2px solid black;
+            border-right: 2px solid black;
+            font-weight:bold;
+            font-size:14px;
+        }
+        .div_title{
+            grid-column-start: 1;
+            grid-column-end: 1;
+            border-bottom: 1px solid black;
+            padding-left:5px;
+            padding-top:5px;
+        }
+        .div_cell{
+            border-bottom: 1px solid black;
+            border-left:2px solid black;
+            padding-left:5px;
+            padding-top:5px;
+            font-weight:normal;
+            text-align:center;
+        }</xsl:element>
             </xsl:element>
             <xsl:element name="body">
                 <xsl:apply-templates select="//*[local-name() = 'FeatureTypeStyle']" mode="div_tab"/>
@@ -151,7 +147,6 @@
                     </xsl:element>
                 </xsl:if>
                 <xsl:element name="rect">
-                    <!--<xsl:attribute name="points">0,0 0,48 96,48 96,0</xsl:attribute>-->
                     <xsl:attribute name="x">5</xsl:attribute>
                     <xsl:attribute name="y">5</xsl:attribute>
                     <xsl:attribute name="width">80%</xsl:attribute>
@@ -197,332 +192,78 @@
                 </xsl:element>
             </xsl:element>
         </xsl:element>
-        <xsl:element name="div"><!-- Description -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 3;grid-row-end: 3;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = 'Description']/*[local-name() = 'Title']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- FeatureTypeName -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 4;grid-row-end: 4;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./../*[local-name() = 'Name']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Filter -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 5;grid-row-end: 5;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name()='Filter']/*[local-name()='PropertyIsEqualTo']/*[local-name()='PropertyName']"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- LayerName -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 6;grid-row-end: 6;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./../../../*[local-name() = 'Name']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Fill - fill -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 7;grid-row-end: 7;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Fill - opacity -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 8;grid-row-end: 8;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Fill - GraphicFill - Graphic - ExternalGraphic - OnlineResource - href -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 9;grid-row-end: 9;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:variable name="href" select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
-            <xsl:if test="$href">
-                <xsl:value-of select="concat('/',tokenize($href,'/')[last()])"/>
-            </xsl:if>
-        </xsl:element>
-        <xsl:element name="div"><!-- Fill - GraphicFill - Graphic - ExternalGraphic - Format -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 10;grid-row-end: 10;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'Format']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 11;grid-row-end: 11;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke-opacity -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 12;grid-row-end: 12;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke-width -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 13;grid-row-end: 13;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke-linejoin -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 14;grid-row-end: 14;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linejoin']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke-dasharray -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 15;grid-row-end: 15;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-dasharray']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Stroke - stroke-linecap -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 16;grid-row-end: 16;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linecap']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Wellknownname -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 17;grid-row-end: 17;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'WellKnownName']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Fill - fill -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 18;grid-row-end: 18;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Fill - fill-opacity -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 19;grid-row-end: 19;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 20;grid-row-end: 20;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke-opacity -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 21;grid-row-end: 21;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke-width -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 22;grid-row-end: 22;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Size -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 23;grid-row-end: 23;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Size']/text()"/>
-        </xsl:element>
-        <xsl:element name="div"><!-- Graphic - Rotation -->
-            <xsl:attribute name="class">div_cell</xsl:attribute>
-            <xsl:attribute name="style">
-                <xsl:value-of select="concat('grid-row-start: 24;grid-row-end: 24;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';border-bottom:2px solid black;')"/>
-            </xsl:attribute>
-            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Rotation']/text()"/>
-        </xsl:element>
+        <xsl:apply-templates select="." mode="prop_list">
+            <xsl:with-param name="geom_type"><xsl:value-of select="$geom_type"/></xsl:with-param>
+        </xsl:apply-templates>
         
-        
-<!--        <xsl:element name="td">
-            <xsl:attribute name="class">rule_cap_col</xsl:attribute>
-            <xsl:element name="table">
-                <xsl:attribute name="class">symbol_table</xsl:attribute>
-                <xsl:element name="tr">
-                    <!-\- Symbolname -\->
-                    <xsl:element name="td">
-                        <xsl:value-of select="./*[local-name() = 'Name']"/>
-                    </xsl:element>
-                </xsl:element>
-                <xsl:element name="tr">
-                    <!-\- Example -\->
-                    <xsl:attribute name="class">symbol_example</xsl:attribute>
-                    <xsl:element name="td">
-                        <xsl:element name="svg">
-                            <xsl:attribute name="viewBox">-5 -5 106 58</xsl:attribute>
-                            <xsl:attribute name="height">48</xsl:attribute>
-                            <xsl:attribute name="width">96</xsl:attribute>
-                            <xsl:if
-                                test="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']">
-                                <xsl:variable name="image"
-                                    select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
-                                <xsl:element name="image">
-                                    <xsl:attribute name="href">
-                                        <xsl:value-of
-                                            select="concat($symbolpath, tokenize($image, '/')[count(tokenize($image, '/'))])"
-                                        />
-                                    </xsl:attribute>
-                                    <xsl:attribute name="x">0</xsl:attribute>
-                                    <xsl:attribute name="y">0</xsl:attribute>
-                                    <xsl:attribute name="preserveAspectRatio"
-                                        >xMidxMin slice</xsl:attribute>
-                                </xsl:element>
-                                <xsl:element name="image">
-                                    <xsl:attribute name="href">
-                                        <xsl:value-of
-                                            select="concat($symbolpath, tokenize($image, '/')[count(tokenize($image, '/'))])"
-                                        />
-                                    </xsl:attribute>
-                                    <xsl:attribute name="x">48</xsl:attribute>
-                                    <xsl:attribute name="y">0</xsl:attribute>
-                                    <xsl:attribute name="preserveAspectRatio"
-                                        >xMidxMin slice</xsl:attribute>
-                                </xsl:element>
-                            </xsl:if>
-                            <xsl:element name="polygon">
-                                <xsl:attribute name="points">0,0 0,48 96,48 96,0</xsl:attribute>
-                                <xsl:attribute name="style">
-                                    <!-\- SvgParameter of graphicFill -\->
-                                    <xsl:variable name="style">
-                                        <xsl:choose>
-                                            <xsl:when
-                                                test="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter']">
-                                                <xsl:variable name="fill"
-                                                  select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter'][@name = 'fill']/text()"/>
-                                                <xsl:variable name="fill-opacity"
-                                                  select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter'][@name = 'fill-opacity']/text()"/>
-                                                <xsl:value-of
-                                                  select="concat('fill:', fn:replace(fn:replace(string(not($fill)), 'true', '#ffffff'), 'false', string($fill)), ';fill-opacity:', fn:replace(fn:replace(string(not($fill-opacity)), 'true', '1'), 'false', string($fill-opacity)))"
-                                                />
-                                            </xsl:when>
-                                            <xsl:otherwise>
-                                                <xsl:value-of select="'fill-opacity:0'"/>
-                                            </xsl:otherwise>
-                                        </xsl:choose>
-                                        <xsl:variable name="stroke"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke']/text()"/>
-                                        <xsl:variable name="stroke-opacity"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-opacity']/text()"/>
-                                        <xsl:variable name="stroke-width"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-width']/text()"/>
-                                        <xsl:variable name="stroke-linejoin"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linejoin']/text()"/>
-                                        <xsl:variable name="stroke-dasharray"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()"/>
-                                        <xsl:variable name="stroke-dasharray_mm"
-                                            select="concat(tokenize($stroke-dasharray)[1], 'mm ', tokenize($stroke-dasharray)[2], 'mm ')"/>
-                                        <xsl:variable name="stroke-linecap"
-                                            select="./*[local-name() = 'PolygonSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linecap']/text()"/>
-                                        <xsl:value-of
-                                            select="concat(';stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-linejoin:', $stroke-linejoin, ';stroke-dasharray:', $stroke-dasharray_mm, ';stroke-linecap:', $stroke-linecap)"
-                                        />
-                                    </xsl:variable>
-                                    <xsl:value-of select="$style"/>
-                                </xsl:attribute>
-                            </xsl:element>
-                        </xsl:element>
-                    </xsl:element>
-                </xsl:element>
-                <xsl:apply-templates select="." mode="prop_list">
-                    <xsl:with-param name="geom_type">PolygonSymbolizer</xsl:with-param>
-                </xsl:apply-templates>
-            </xsl:element>
-        </xsl:element>-->
     </xsl:template>
     <xd:doc>
         <xd:desc>Lijnen</xd:desc>
     </xd:doc>
     <xsl:template match=".[fn:substring(*[local-name() = 'Name']/text(), 1, 1) = 'l']" mode="symbol">
-        <xsl:element name="td">
-            <xsl:attribute name="class">rule_cap_col</xsl:attribute>
-            <xsl:element name="table">
-                <xsl:attribute name="class">symbol_table</xsl:attribute>
-                <xsl:element name="tr">
-                    <!-- Symbolname -->
-                    <xsl:element name="td">
-                        <xsl:value-of select="./*[local-name() = 'Name']"/>
-                    </xsl:element>
-                </xsl:element>
-                <xsl:element name="tr">
-                    <!-- Example -->
-                    <xsl:attribute name="class">symbol_example</xsl:attribute>
-                    <xsl:element name="td">
-                        <xsl:element name="svg">
-                            <xsl:attribute name="height">48</xsl:attribute>
-                            <xsl:attribute name="width">96</xsl:attribute>
-                            <xsl:element name="line">
-                                <!--<xsl:attribute name="points">15,15 15,50 100,50 100,15</xsl:attribute>-->
-                                <xsl:attribute name="x1">0</xsl:attribute>
-                                <xsl:attribute name="x2">96</xsl:attribute>
-                                <xsl:attribute name="y1">24</xsl:attribute>
-                                <xsl:attribute name="y2">24</xsl:attribute>
-                                <xsl:attribute name="style">
-                                    <xsl:variable name="stroke"
-                                        select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke']/text()"/>
-                                    <xsl:variable name="stroke-opacity"
-                                        select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-opacity']/text()"/>
-                                    <xsl:variable name="stroke-width"
-                                        select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-width']/text()"/>
-                                    <xsl:variable name="stroke-dasharray"
-                                        select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()"/>
-                                    <xsl:variable name="stroke-dasharray_mm"
-                                        select="concat(tokenize($stroke-dasharray)[1], 'mm ', tokenize($stroke-dasharray)[2], 'mm ')"/>
-                                    <xsl:variable name="stroke-linecap"
-                                        select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linecap']/text()"/>
-                                    <xsl:value-of
-                                        select="concat('stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-dasharray:', $stroke-dasharray_mm, ';stroke-linecap:', $stroke-linecap)"
-                                    />
-                                </xsl:attribute>
-                            </xsl:element>
-                        </xsl:element>
-                        <xsl:apply-templates select="." mode="prop_list">
-                            <xsl:with-param name="geom_type">LineSymbolizer</xsl:with-param>
-                        </xsl:apply-templates>
-                    </xsl:element>
+        <xsl:variable name="geom_type">LineSymbolizer</xsl:variable>
+        <xsl:element name="div"><!-- SymbolName -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 1;grid-row-end: 1;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';border-top:2px solid black;')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = 'Name']"/>
+        </xsl:element>
+        <xsl:element name="div"><!-- Example -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 2;grid-row-end: 2;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:element name="svg">
+                <xsl:attribute name="width">96</xsl:attribute>
+                <xsl:attribute name="height">48</xsl:attribute>
+                <xsl:element name="line">
+                    <xsl:attribute name="x1">10</xsl:attribute>
+                    <xsl:attribute name="x2">76</xsl:attribute>
+                    <xsl:attribute name="y1">24</xsl:attribute>
+                    <xsl:attribute name="y2">24</xsl:attribute>
+                    <xsl:attribute name="style">
+                        <xsl:variable name="stroke"
+                            select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke']/text()"/>
+                        <xsl:variable name="stroke-opacity"
+                            select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-opacity']/text()"/>
+                        <xsl:variable name="stroke-width"
+                            select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-width']/text()"/>
+                        <xsl:variable name="stroke-dasharray"
+                            select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-dasharray']/text()"/>
+                        <xsl:variable name="stroke-dasharray_mm"
+                            select="concat(tokenize($stroke-dasharray)[1], ' ', tokenize($stroke-dasharray)[2], ' ')"/>
+                        <xsl:variable name="stroke-linecap"
+                            select="./*[local-name() = 'LineSymbolizer']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter'][@name = 'stroke-linecap']/text()"/>
+                        <xsl:value-of
+                            select="concat('stroke:', $stroke, ';stroke-opacity:', $stroke-opacity, ';stroke-width:', $stroke-width, ';stroke-dasharray:', $stroke-dasharray_mm, ';stroke-linecap:', $stroke-linecap)"
+                        />
+                    </xsl:attribute>
                 </xsl:element>
             </xsl:element>
         </xsl:element>
+        <xsl:apply-templates select="." mode="prop_list">
+            <xsl:with-param name="geom_type"><xsl:value-of select="$geom_type"/></xsl:with-param>
+        </xsl:apply-templates>
     </xsl:template>
+
     <xd:doc>
         <xd:desc>Punten</xd:desc>
     </xd:doc>
     <xsl:template match=".[fn:substring(*[local-name() = 'Name']/text(), 1, 1) = 'p']" mode="symbol">
-        <xsl:element name="td">
-            <xsl:attribute name="class">rule_cap_col</xsl:attribute>
-            <xsl:element name="table">
-                <xsl:attribute name="class">symbol_table</xsl:attribute>
-                <xsl:element name="tr">
-                    <!-- Symbolname -->
-                    <xsl:element name="td">
-                        <xsl:value-of select="./*[local-name() = 'Name']"/>
-                    </xsl:element>
-                </xsl:element>
-                <xsl:element name="tr">
-                    <!-- Example -->
-                    <xsl:attribute name="class">symbol_example</xsl:attribute>
-                    <xsl:element name="td">
+        <xsl:variable name="geom_type">PointSymbolizer</xsl:variable>
+        <xsl:element name="div"><!-- SymbolName -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 1;grid-row-end: 1;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';border-top:2px solid black;')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = 'Name']"/>
+        </xsl:element>
+        <xsl:element name="div"><!-- Example -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 2;grid-row-end: 2;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
                         <xsl:choose>
                             <!-- cross_fill -->
                             <xsl:when
@@ -825,152 +566,174 @@
                                 </xsl:element>
                             </xsl:when>
                         </xsl:choose>
-                        <xsl:apply-templates select="." mode="prop_list">
-                            <xsl:with-param name="geom_type">PointSymbolizer</xsl:with-param>
-                        </xsl:apply-templates>
-                    </xsl:element>
-                </xsl:element>
-            </xsl:element>
         </xsl:element>
+        <xsl:apply-templates select="." mode="prop_list">
+            <xsl:with-param name="geom_type"><xsl:value-of select="$geom_type"/></xsl:with-param>
+        </xsl:apply-templates>
     </xsl:template>
+
     <xd:doc>
         <xd:desc>Property list</xd:desc>
         <xd:param name="geom_type"/>
     </xd:doc>
     <xsl:template match="." mode="prop_list">
         <xsl:param name="geom_type"/>
-        <xsl:element name="tr">
-            <!-- Description -->
-            <xsl:attribute name="class">symbol_description</xsl:attribute>
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = 'Description']/*[local-name() = 'Title']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Description -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 3;grid-row-end: 3;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = 'Description']/*[local-name() = 'Title']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- FeatureTypeName -->
-            <xsl:element name="td">
-                <xsl:value-of select="./../*[local-name() = 'Name']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- FeatureTypeName -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 4;grid-row-end: 4;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./../*[local-name() = 'Name']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Filter -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name()='Filter']/*[local-name()='PropertyIsEqualTo']/*[local-name()='PropertyName']"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Filter -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 5;grid-row-end: 5;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name()='Filter']/*[local-name()='PropertyIsEqualTo']/*[local-name()='PropertyName']"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- LayerName -->
-            <xsl:element name="td">
-                <xsl:value-of select="./../../../*[local-name() = 'Name']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- LayerName -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 6;grid-row-end: 6;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./../../../*[local-name() = 'Name']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Fill - fill -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Fill - fill -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 7;grid-row-end: 7;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Fill - fill-opacity -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Fill - opacity -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 8;grid-row-end: 8;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Fill - GraphicFill - Graphic - ExternalGraphic - OnlineResource - href -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Fill - GraphicFill - Graphic - ExternalGraphic - OnlineResource - href -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 9;grid-row-end: 9;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:variable name="href" select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'OnlineResource']/@xlink:href"/>
+            <xsl:if test="$href">
+                <xsl:value-of select="concat('/',tokenize($href,'/')[last()])"/>
+            </xsl:if>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Fill - GraphicFill - Graphic - ExternalGraphic - Format -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'Format']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Fill - GraphicFill - Graphic - ExternalGraphic - Format -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 10;grid-row-end: 10;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Fill']/*[local-name() = 'GraphicFill']/*[local-name() = 'Graphic']/*[local-name() = 'ExternalGraphic']/*[local-name() = 'Format']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 11;grid-row-end: 11;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke-opacity -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke-opacity -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 12;grid-row-end: 12;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke-width -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke-width -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 13;grid-row-end: 13;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke-linejoin -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linejoin']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke-linejoin -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 14;grid-row-end: 14;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linejoin']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke-dasharray -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-dasharray']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke-dasharray -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 15;grid-row-end: 15;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-dasharray']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Stroke - stroke-linecap -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linecap']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Stroke - stroke-linecap -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 16;grid-row-end: 16;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-linecap']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Wellknownname -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'WellKnownName']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Wellknownname -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 17;grid-row-end: 17;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'WellKnownName']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Fill - fill -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Fill - fill -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 18;grid-row-end: 18;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Fill - fill-opacity -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Fill - fill-opacity -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 19;grid-row-end: 19;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Fill']/*[local-name() = 'SvgParameter' and @name = 'fill-opacity']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Stroke - stroke -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 20;grid-row-end: 20;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Stroke - stroke-opacity -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke-opacity -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 21;grid-row-end: 21;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-opacity']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Mark - Stroke - stroke-width -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Mark - Stroke - stroke-width -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 22;grid-row-end: 22;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Mark']/*[local-name() = 'Stroke']/*[local-name() = 'SvgParameter' and @name = 'stroke-width']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Size -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Size']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Size -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 23;grid-row-end: 23;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Size']/text()"/>
         </xsl:element>
-        <xsl:element name="tr">
-            <!-- Graphic - Rotation -->
-            <xsl:element name="td">
-                <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Rotation']/text()"/>
-            </xsl:element>
+        <xsl:element name="div"><!-- Graphic - Rotation -->
+            <xsl:attribute name="class">div_cell</xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:value-of select="concat('grid-row-start: 24;grid-row-end: 24;grid-column-start: ',count(./preceding-sibling::*),';grid-column-end: ',count(./preceding-sibling::*),';border-bottom:2px solid black;')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./*[local-name() = $geom_type]/*[local-name() = 'Graphic']/*[local-name() = 'Rotation']/text()"/>
         </xsl:element>
     </xsl:template>
 </xsl:stylesheet>
