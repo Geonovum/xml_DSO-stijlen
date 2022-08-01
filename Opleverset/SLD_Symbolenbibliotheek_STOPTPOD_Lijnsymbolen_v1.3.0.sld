@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="SLD_1.0.css"?>
 <!-- ================================================ -->
-<!--      STOP-TPOD Lijnsymbolenlijst 1.0.0           -->
+<!--      STOP-TPOD Lijnsymbolenlijst 1.3.0           -->
 <!--      Geonovum  2020                              -->
 <!-- ================================================ -->
 <sld:StyledLayerDescriptor xmlns:se="http://www.opengis.net/se"
