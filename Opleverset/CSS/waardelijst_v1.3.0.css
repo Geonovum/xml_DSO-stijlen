@@ -1,7 +1,7 @@
-@import "symboolcodes_v1.1.0.css";
+@import "symboolcodes_v1.3.0.css";
 @import "symboolcodes_lijn_v1.3.0.css";
-@import "symboolcodes_punt_v1.2.0.css";
-@import "symboolcodes_vlak_v1.2.0.css";
+@import "symboolcodes_punt_v1.3.0.css";
+@import "symboolcodes_vlak_v1.3.0.css";
 
 waardelijsten:before{display:block;content:'\00A0';}
 
